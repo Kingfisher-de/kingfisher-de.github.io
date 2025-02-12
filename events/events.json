@@ -557,7 +557,7 @@
             "machine_readable_location": "48.72636,9.26270",
             "frequency": "Yearly",
             "expected_attendees": "200",
-            "ticket_price": "20 € but sold out",
+            "ticket_price": "20 €",
             "start": "2024-03-23",
             "end": "2024-03-23"
         },
@@ -755,6 +755,10 @@
             "expected_attendees": "300",
             "start": "2024-10-23",
             "end": "2024-10-27"
+        },
+        {
+            "start": "2025-10-29",
+            "end": "2025-11-02"
         }
     ],
     "Flüüfff": [
@@ -973,6 +977,10 @@
         {
             "start": "2025-02-08",
             "end": "2025-02-08"
+        },
+        {
+            "start": "2025-04-12",
+            "end": "2025-04-12"
         }
     ],
     "AYCE Stammtisch Karlsruhe": [
@@ -2147,6 +2155,29 @@
             "machine_readable_location": "49.60005,11.00279",
             "frequency": "Yearly",
             "genre": "Chaos-Event"
+        }
+    ],
+    "Konferenz der Informatikfachschaften": [
+        {
+            "link": "https://kif.rocks/",
+            "human_readable_location": "Passau, Bavaria",
+            "machine_readable_location": "48.57444,13.46472",
+            "dev_comment": "gps-coords are the center of passau, not the exact location",
+            "start": "2025-06-18",
+            "end": "2025-06-22",
+            "frequency": "2 times per year",
+            "genre": "IT-Event"
+        }
+    ],
+    "Winterchaos": [
+        {
+            "link": "https://chaoschemnitz.de/Winterchaos",
+            "frequency": "Yearly",
+            "genre": "Chaos-Event",
+            "start": "2025-02-08",
+            "end": "2025-02-09",
+            "human_readable_location": "Chemnitz, Saxony",
+            "machine_readable_location": "50.830633,12.939556"
         }
     ]
 }
