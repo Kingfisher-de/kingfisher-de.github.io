@@ -29,6 +29,13 @@
             "dev_comment": "Source for expected_attendees: Estimation by Patrick from Hacknang",
             "start": "2024-05-03",
             "end": "2024-05-05 (teardown starts 18:00)"
+        },
+        {
+            "link": "https://wiki.ctbk.de/FSCK2025",
+            "start": "2025-05-09",
+            "end": "2025-05-12",
+            "human_readable_location": "Backnang, Baden-Württemberg",
+            "machine_readable_location": "48.94887,9.43436"
         }
     ],
     "Furvester": [
@@ -832,6 +839,10 @@
         {
             "start": "2024-09-28",
             "end": "2024-09-28"
+        },
+        {
+            "start": "2025-03-15",
+            "end": "2025-03-15"
         }
     ],
     "Heilbronner Suitwalk": [
@@ -1029,6 +1040,10 @@
         {
             "start": "2025-01-18",
             "end": "2025-01-18"
+        },
+        {
+            "start": "2025-03-23",
+            "end": "2025-03-23"
         }
     ],
     "Fursuitwalk Bad Dürkheim": [
@@ -1868,6 +1883,13 @@
             "end": "2024-10-14",
             "human_readable_location": "Chemnitz, Saxony",
             "machine_readable_location": "50.82016,12.93151"
+        },
+        {
+            "link": "https://interfug.de/",
+            "start": "2025-10-11",
+            "end": "2025-10-13",
+            "human_readable_location": "Chemnitz, Saxony",
+            "machine_readable_location": "50.830633,12.939556"
         }
     ],
     "Ulmer Furs auf dem Ulmer Volksfest": [
@@ -2182,6 +2204,17 @@
             "end": "2025-02-09",
             "human_readable_location": "Chemnitz, Saxony",
             "machine_readable_location": "50.830633,12.939556"
+        }
+    ],
+    "InselChaos": [
+        {
+            "link": "https://inselchaos.de/",
+            "frequency": "Yearly",
+            "genre": "Chaos-Event",
+            "start": "2025-09-05",
+            "end": "2025-09-08",
+            "human_readable_location": "Rügen, Mecklenburg-Western Pomerania",
+            "machine_readable_location": "54.42298,13.41613"
         }
     ]
 }
