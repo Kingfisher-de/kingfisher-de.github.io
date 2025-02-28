@@ -1111,6 +1111,10 @@
             "end": "2024-06-29 (3:00 am tag dannach)",
             "ticket_price": "35 €",
             "registration_start": "2024-03-24 20:00"
+        },
+        {
+            "start": "2025-07-05 19:00",
+            "end": "2025-07-05 (3:00 am tag dannach)"
         }
     ],
     "Rheinfurdance": [
@@ -1978,6 +1982,10 @@
             "end": "2025-01-01",
             "human_readable_location": "Dessau, Saxony-Anhalt",
             "machine_readable_location": "51.84441,12.20858"
+        },
+        {
+            "start": "2025-12-29",
+            "end": "2026-01-01"
         }
     ],
     "ChaosKunstGefrickel": [
