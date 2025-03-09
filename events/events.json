@@ -852,6 +852,18 @@
             "end": "2025-03-15"
         }
     ],
+    "Offenburger Suitwalk": [
+        {
+            "link": "https://t.me/offenburgerinfo",
+            "genre": "Furry-Suitwalk",
+            "human_readable_location": "Offenburg, Baden-Württemberg",
+            "machine_readable_location": "48.47170,7.93991",
+            "frequency": "A few times per year",
+            "ticket_price": "Free",
+            "start": "2025-03-22",
+            "end": "2025-03-22"
+        }
+    ],
     "Heilbronner Suitwalk": [
         {
             "link": "https://weinbergfurs.de/suitwalks/heilbronn",
