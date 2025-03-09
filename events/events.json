@@ -494,6 +494,13 @@
             "frequency": "Yearly",
             "start": "2024-06-28",
             "end": "2024-06-30"
+        },
+        {
+            "link": "https://hadr.un-hack-bar.de/",
+            "start": "2025-07-19",
+            "end": "2025-07-21",
+            "human_readable_location": "Dortmund, North Rhine-Westphalia",
+            "machine_readable_location": "51.41905,7.50523"
         }
     ],
     "CoSin": [
