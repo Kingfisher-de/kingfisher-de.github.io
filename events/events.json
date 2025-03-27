@@ -827,6 +827,18 @@
             "end": "2024-05-18"
         }
     ],
+    "Furry-Treffen Mannheim": [
+        {
+            "link": "https://weinbergfurs.de/veranstaltungen/luisenpark-mannheim",
+            "genre": "Furry-Suitwalk",
+            "human_readable_location": "Mannheim, Baden-Württemberg",
+            "machine_readable_location": "49.47936,8.49610",
+            "frequency": "Yearly",
+            "ticket_price": "Free",
+            "start": "2025-04-26",
+            "end": "2025-04-26"
+        }
+    ],
     "Villinger Suitwalk": [
         {
             "link": "https://villinger.furtreff.de/suitwalk.php",
