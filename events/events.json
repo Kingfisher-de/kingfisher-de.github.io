@@ -521,6 +521,13 @@
         {
             "start": "2024-05-29",
             "end": "2024-06-01"
+        },
+        {
+            "link": "https://cosin.ch/de/",
+            "start": "2025-05-29",
+            "end": "2025-06-02",
+            "human_readable_location": "Biel/Bienne, Bern/Berne",
+            "machine_readable_location": "47.1442554,7.2499690"
         }
     ],
     "Lakesidefurs": [
@@ -685,6 +692,13 @@
             "frequency": "Yearly",
             "start": "2024-08-22 (12:00)",
             "end": "2024-08-25 (12:00)"
+        },
+        {
+            "link": "https://westwood.camp/",
+            "start": "2025-08-28",
+            "end": "2025-09-01",
+            "human_readable_location": "Rotenhain, Rhineland-Palatinate",
+            "machine_readable_location": "50.60370,7.88163"
         }
     ],
     "Håck ma's Castle": [
@@ -907,6 +921,10 @@
         {
             "start": "2025-03-01",
             "end": "2025-03-01"
+        },
+        {
+            "start": "2025-05-03",
+            "end": "2025-05-03"
         }
     ],
     "Heilbronner Furry-Stammtisch": {
@@ -1031,6 +1049,10 @@
         {
             "start": "2025-04-12",
             "end": "2025-04-12"
+        },
+        {
+            "start": "2025-06-14",
+            "end": "2025-06-14"
         }
     ],
     "AYCE Stammtisch Karlsruhe": [
@@ -1079,6 +1101,10 @@
         {
             "start": "2025-03-23",
             "end": "2025-03-23"
+        },
+        {
+            "start": "2025-05-24",
+            "end": "2025-05-24"
         }
     ],
     "Fursuitwalk Bad Dürkheim": [
@@ -1548,6 +1574,17 @@
             "ticket_price": "10 €"
         }
     ],
+    "Furmeet Odenwaldhütte": [
+        {
+            "link": "https://s-s-f.de/events/1-furmeet-odenwaldhutte-am-07062025",
+            "genre": "Furry-Stammtisch",
+            "frequency": "Irregular",
+            "start": "2025-06-07",
+            "end": "2025-06-07",
+            "human_readable_location": "Bruchsal, Baden-Württemberg",
+            "machine_readable_location": "49.10588,8.58200"
+        }
+    ],
     "Furmeet Rosenstüble": [
         {
             "link": "https://s-s-f.de/events/furmeet-rosenstuble-am-29062024",
@@ -1973,6 +2010,13 @@
             "end": "2024-07-07 13:00",
             "human_readable_location": "Tübingen, Baden-Württemberg",
             "machine_readable_location": "48.51620,9.06329"
+        },
+        {
+            "link": "https://tdf.cttue.de/",
+            "start": "2025-07-26",
+            "end": "2025-07-28",
+            "human_readable_location": "Tübingen, Baden-Württemberg",
+            "machine_readable_location": "48.5162565,9.0633510"
         }
     ],
     "UFurryA": [
@@ -2258,6 +2302,17 @@
             "end": "2025-09-08",
             "human_readable_location": "Rügen, Mecklenburg-Western Pomerania",
             "machine_readable_location": "54.42298,13.41613"
+        }
+    ],
+    "Chaos Feminist Convention": [
+        {
+            "link": "https://www.haecksen.org/chaos-feminist-convention-2025/",
+            "frequency": "Yearly",
+            "genre": "Chaos-Event",
+            "start": "2025-07-04",
+            "end": "2025-07-07",
+            "human_readable_location": "Hamburg",
+            "machine_readable_location": "53.6073818,9.9032184"
         }
     ]
 }
