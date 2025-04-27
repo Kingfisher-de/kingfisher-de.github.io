@@ -1665,6 +1665,16 @@
             "ticket_price": "Free"
         }
     ],
+    "Hacknology Sommergrillen": [
+        {
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "todo_location": "hacknology",
+            "start": "2025-05-10",
+            "end": "2025-05-10",
+            "freetext": "bei schlechtem Wetter weichen wir auf den 17.05. aus"
+        }
+    ],
     "Fantasy Basel": [
         {
             "link": "https://fantasybasel.ch/",
