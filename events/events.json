@@ -1534,6 +1534,16 @@
             "ticket_price": "Free"
         }
     ],
+    "Digitaltag Shack": [
+        {
+            "link": "https://wiki.shackspace.de/event/2025/digitaltag2025",
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "start": "2025-06-27 16:00",
+            "end": "2025-06-27",
+            "todo_location": "shackspace"
+        }
+    ],
     "Linux Plumbers Conference": [
         {
             "link": "https://lpc.events/",
