@@ -527,6 +527,12 @@
             if (Object.prototype.toString.call(ar) === '[object Array]') {
                 last = {}
                 for (el of ar) {
+                    if ("day" in el) {
+                        console.assert(!("start" in el));
+                        console.assert(!("end" in el));
+                        el["start"] = el["day"];
+                        el["end"] = el["day"];
+                    }
                     console.assert("start" in el);
                     console.assert("end" in el);
                     for ([k, v] of Object.entries(last)) {
