@@ -1743,6 +1743,13 @@
             "end": "2024-12-15",
             "human_readable_location": "Ulm, Baden-Württemberg",
             "machine_readable_location": "48.39628,10.00199"
+        },
+        {
+            "link": "https://tickets.chaos.jetzt/jetzt9/",
+            "start": "2025-05-23",
+            "end": "2025-05-26",
+            "human_readable_location": "Leipzig, Sachsen",
+            "machine_readable_location": "51.3464320,12.3962347"
         }
     ],
     "Hack im Pott": [
@@ -2347,6 +2354,17 @@
             "end": "2025-07-07",
             "human_readable_location": "Hamburg",
             "machine_readable_location": "53.6073818,9.9032184"
+        }
+    ],
+    "Aktiv Symposium München": [
+        {
+            "link": "https://wiki.muc.ccc.de/asm:25:start",
+            "start": "2025-05-29",
+            "end": "2025-06-02",
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "human_readable_location": "München, Bayern",
+            "machine_readable_location": "48.1536330,11.5607605"
         }
     ]
 }
