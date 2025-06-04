@@ -2076,6 +2076,11 @@
             "end": "2024-09-01",
             "human_readable_location": "Calw, Baden-Württemberg",
             "machine_readable_location": "48.71801,8.68334"
+        },
+        {
+            "link": "https://s-s-f.de/events/ufurrya-2025",
+            "start": "2025-08-20",
+            "end": "2025-08-24"
         }
     ],
     "Evoke": [
@@ -2372,6 +2377,28 @@
             "frequency": "Yearly",
             "human_readable_location": "München, Bayern",
             "machine_readable_location": "48.1536330,11.5607605"
+        }
+    ],
+    "DDOS": [
+        {
+            "link": "https://ddos.odenwilusenz.ch/",
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "start": "2025-08-22",
+            "end": "2025-08-24",
+            "human_readable_location": "Beringen, Switzerland",
+            "machine_readable_location": "47.69514,8.58064"
+        }
+    ],
+    "Geekend Neuland": [
+        {
+            "link": "https://blog.freieslabor.org/geekend-neuland-07-08-juni-2025/",
+            "genre": "Chaos-Event",
+            "frequency": "Irregular",
+            "start": "2025-06-07",
+            "end": "2025-06-09",
+            "human_readable_location": "Hildesheim, Niedersachsen",
+            "machine_readable_location": "52.1689546,9.9783191"
         }
     ]
 }
