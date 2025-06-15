@@ -1417,6 +1417,10 @@
             "human_readable_location": "Aalen, Baden-Württemberg",
             "machine_readable_location": "48.85440,10.09088",
             "ticket_price": "Free"
+        },
+        {
+            "start": "2025-07-04 16:00",
+            "end": "2025-07-06 18:00"
         }
     ],
     "Embedded World": [
