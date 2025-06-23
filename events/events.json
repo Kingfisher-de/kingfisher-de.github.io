@@ -497,6 +497,10 @@
             "end": "2024-06-22",
             "expected_attendees": "250",
             "dev_comment": "Source for expected_attendees: I mailed them"
+        },
+        {
+            "start": "2025-07-05",
+            "end": "2025-07-05"
         }
     ],
     "Hack an der Ruhr": [
@@ -1070,6 +1074,10 @@
         {
             "start": "2025-06-14",
             "end": "2025-06-14"
+        },
+        {
+            "start": "2025-10-18",
+            "end": "2025-10-18"
         }
     ],
     "AYCE Stammtisch Karlsruhe": [
