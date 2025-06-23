@@ -752,6 +752,10 @@
             "dev_comment": "Source for expected_attendees: https://en.wikifur.com/wiki/Eurofurence",
             "start": "2024-09-18",
             "end": "2024-09-21"
+        },
+        {
+            "start": "2025-09-03",
+            "end": "2025-09-06"
         }
     ],
     "Kieler Open Source und Linux Tage": [
