@@ -13,7 +13,7 @@
         {
             "link": "https://2025.mrmcd.net/",
             "start": "2025-09-12",
-            "end": "2025-09-15",
+            "end": "2025-09-14",
             "human_readable_location": "Darmstadt, Hesse",
             "machine_readable_location": "49.87771,8.65501"
         }
@@ -2415,6 +2415,28 @@
             "end": "2025-06-09",
             "human_readable_location": "Hildesheim, Niedersachsen",
             "machine_readable_location": "52.1689546,9.9783191"
+        }
+    ],
+    "20 Jahre Labor": [
+        {
+            "link": "https://wiki.das-labor.org/w/20_jahre_labor",
+            "frequency": "Irregular",
+            "genre": "Chaos-Event",
+            "start": "2025-08-25",
+            "end": "2025-09-01",
+            "human_readable_location": "Bochum, North Rhine-Westphalia",
+            "machine_readable_location": "51.48091,7.20856"
+        }
+    ],
+    "Mega-Knowledgecamp Saarbrücken": [
+        {
+            "link": "https://megakc.hacksaar.de/",
+            "frequency": "Irregular",
+            "genre": "Chaos-Event",
+            "start": "2025-09-20",
+            "end": "2025-09-22",
+            "human_readable_location": "Saarbrücken, Saarland",
+            "machine_readable_location": "49.2353666,6.9725598"
         }
     ]
 }
