@@ -205,6 +205,11 @@
             "end": "2025-03-29",
             "human_readable_location": "Münster, North Rhine-Westphalia",
             "machine_readable_location": "51.96959,7.59583"
+        },
+        {
+            "start": "2026-03-25",
+            "end": "2026-03-28",
+            "todo_location": "Göttingen"
         }
     ],
     "Easterhegg": [
@@ -1160,6 +1165,10 @@
         {
             "start": "2025-02-15",
             "end": "2025-02-15"
+        },
+        {
+            "start": "2025-08-16",
+            "end": "2025-08-16"
         }
     ],
     "Fursuitwalk Weinheim": [
