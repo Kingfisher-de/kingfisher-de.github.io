@@ -1953,6 +1953,13 @@
             "end": "2024-09-23",
             "human_readable_location": "Serbia",
             "machine_readable_location": "45.25789,19.82333"
+        },
+        {
+            "link": "https://2k25.balccon.org/",
+            "start": "2025-09-19",
+            "end": "2025-09-22",
+            "human_readable_location": "Град Нови Сад, Војводина",
+            "machine_readable_location": "45.2561432,19.8240021"
         }
     ],
     "BigBrotherAwards": [
@@ -1980,6 +1987,13 @@
             "frequency": "Yearly",
             "start": "2024-11-08",
             "end": "2024-11-10",
+            "human_readable_location": "Lübeck, Schleswig-Holstein",
+            "machine_readable_location": "53.83434,10.70017"
+        },
+        {
+            "link": "https://2025.nook-luebeck.de/",
+            "start": "2025-11-14",
+            "end": "2025-11-16",
             "human_readable_location": "Lübeck, Schleswig-Holstein",
             "machine_readable_location": "53.83434,10.70017"
         }
@@ -2447,6 +2461,50 @@
             "end": "2025-09-22",
             "human_readable_location": "Saarbrücken, Saarland",
             "machine_readable_location": "49.2353666,6.9725598"
+        }
+    ],
+    "ChaosZeltZone": [
+        {
+            "link": "https://thereisno.camp/",
+            "frequency": "Yearly",
+            "genre": "Tent-Camp",
+            "start": "2025-08-27",
+            "end": "2025-09-01",
+            "human_readable_location": "Pöhl, Sachsen",
+            "machine_readable_location": "50.5387930,12.1852359"
+        }
+    ],
+    "GNU/LinuxDay in Vorarlberg": [
+        {
+            "link": "https://www.linuxday.at/",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2025-09-27",
+            "end": "2025-09-28",
+            "human_readable_location": "Dornbirn, Vorarlberg",
+            "machine_readable_location": "47.4138899,9.7230888"
+        }
+    ],
+    "20 Jahre C3PB": [
+        {
+            "link": "https://cloud.c3pb.de/apps/forms/s/KzfTCz46AsWjjnYmCazY9EiT",
+            "frequency": "Irregular",
+            "genre": "Chaos-Event",
+            "start": "2025-07-26",
+            "end": "2025-07-27",
+            "human_readable_location": "Paderborn, Nordrhein-Westfalen",
+            "machine_readable_location": "51.7171331,8.7475895"
+        }
+    ],
+    "Rencontres Hivernales du Libre": [
+        {
+            "link": "https://rencontreshivernalesdulibre.ch/",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-01-23",
+            "end": "2026-01-26",
+            "human_readable_location": "Saint-Cergue, Vaud",
+            "machine_readable_location": "46.4473611,6.1448797"
         }
     ]
 }
