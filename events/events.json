@@ -2506,5 +2506,15 @@
             "human_readable_location": "Saint-Cergue, Vaud",
             "machine_readable_location": "46.4473611,6.1448797"
         }
+    ],
+    "SaarFurDance": [
+        {
+            "link": "https://s-s-f.de/events/saarfurdance-iii-reloaded",
+            "frequency": "Yearly",
+            "genre": "Furdance",
+            "start": "2025-10-11 18:00",
+            "end": "2025-10-11",
+            "todo_location": "Richard-Wagner-Straße 9, 66111 Saarbrücken"
+        }
     ]
 }
