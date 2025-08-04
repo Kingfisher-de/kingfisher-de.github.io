@@ -1090,6 +1090,17 @@
             "end": "2025-10-18"
         }
     ],
+    "Suitwalk Rheinfelden": [
+        {
+            "link": "https://suitwalk-rheinfelden.ch/",
+            "genre": "Furry-Suitwalk",
+            "todo_location": "Rheinfelden, Switzerland",
+            "frequency": "Irregular",
+            "ticket_price": "Free",
+            "start": "2025-10-04",
+            "end": "2025-10-04"
+        }
+    ],
     "AYCE Stammtisch Karlsruhe": [
         {
             "genre": "Furry-Stammtisch",
