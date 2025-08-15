@@ -240,6 +240,13 @@
             "end": "2025-04-22",
             "human_readable_location": "Hamburg",
             "machine_readable_location": "53.58331,10.02179"
+        },
+        {
+            "link": "https://eh23.easterhegg.eu/",
+            "start": "2026-04-03",
+            "end": "2026-04-07",
+            "human_readable_location": "Koblenz, Rheinland-Pfalz",
+            "machine_readable_location": "50.3635804,7.5582885"
         }
     ],
     "Grazer Linuxtage": [
@@ -1213,6 +1220,10 @@
         {
             "start": "2025-03-08",
             "end": "2025-03-08"
+        },
+        {
+            "start": "2025-10-11",
+            "end": "2025-10-11"
         }
     ],
     "Sachsen Furdance": [
