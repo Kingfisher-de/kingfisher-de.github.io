@@ -168,6 +168,10 @@
         {
             "start": "2025-03-22",
             "end": "2025-03-23"
+        },
+        {
+            "start": "2026-03-28",
+            "end": "2026-03-29"
         }
     ],
     "CloudFest": [
@@ -890,6 +894,10 @@
             "ticket_price": "Free",
             "start": "2025-04-26",
             "end": "2025-04-26"
+        },
+        {
+            "start": "2025-10-05",
+            "end": "2025-10-05"
         }
     ],
     "Villinger Suitwalk": [
@@ -1813,6 +1821,13 @@
             "end": "2025-05-26",
             "human_readable_location": "Leipzig, Sachsen",
             "machine_readable_location": "51.3464320,12.3962347"
+        },
+        {
+            "link": "https://chaos.jetzt/jetzt11",
+            "start": "2025-11-07",
+            "end": "2025-11-10",
+            "human_readable_location": "Frankfurt am Main, Hessen",
+            "machine_readable_location": "50.1088072,8.6564356"
         }
     ],
     "Hack im Pott": [
@@ -2545,6 +2560,28 @@
             "start": "2025-10-11 18:00",
             "end": "2025-10-11",
             "todo_location": "Richard-Wagner-Straße 9, 66111 Saarbrücken"
+        }
+    ],
+    "30 Jahre c-base": [
+        {
+            "link": "https://c-base.org/30/",
+            "start": "2025-09-05",
+            "end": "2025-10-06",
+            "human_readable_location": "Berlin",
+            "machine_readable_location": "52.5129735,13.4201313",
+            "frequency": "Irregular",
+            "genre": "Chaos-Event"
+        }
+    ],
+    "10 Jahre Chaostreff Osnabrück": [
+        {
+            "link": "https://chaostreff-osnabrueck.de/",
+            "start": "2025-09-06",
+            "end": "2025-09-07",
+            "human_readable_location": "Osnabrück, Niedersachsen",
+            "machine_readable_location": "52.2727679,8.0458517",
+            "frequency": "Irregular",
+            "genre": "Chaos-Event"
         }
     ]
 }
