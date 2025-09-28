@@ -522,6 +522,11 @@
             "start": "2025-07-05",
             "end": "2025-07-05",
             "expected_attendees": "300"
+        },
+        {
+            "start": "2026-07-04",
+            "end": "2026-07-04",
+            "expected_attendees": "300"
         }
     ],
     "Hack an der Ruhr": [
