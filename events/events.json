@@ -275,6 +275,16 @@
             "end": "2024-04-06"
         }
     ],
+    "Voralberg Linuxtag": [
+        {
+            "link": "https://www.linuxday.at/",
+            "genre": "IT-Event",
+            "todo_location": "Voralberg",
+            "frequency": "Yearly",
+            "start": "2025-09-27",
+            "end": "2025-09-27"
+        }
+    ],
     "Linuxwochen Eisenstadt": [
         {
             "link": "https://www.linuxwochen.at/linuxwochen-eisenstadt-summary1",
@@ -503,6 +513,10 @@
         {
             "start": "2024-11-02",
             "end": "2024-11-02"
+        },
+        {
+            "start": "2025-11-15",
+            "end": "2025-11-15"
         }
     ],
     "Lübecker Furdance": [
@@ -2641,5 +2655,26 @@
             "frequency": "Monthly",
             "genre": "Chaos-Event"
         }
-    ]
+    ],
+    "Pawsome": [
+        {
+            "link": "https://www.pawsome.org.uk/",
+            "todo_location": "Gloucester, United Kingdom",
+            "start": "2025-10-03",
+            "end": "2025-10-06",
+            "frequency": "Yearly",
+            "genre": "Furry-Convention"
+        }
+    ],
+    "OSMC": [
+        {
+            "link": "https://osmc.de/",
+            "start": "2025-11-18",
+            "end": "2025-11-20",
+            "expected_attendees": "250",
+            "ticket_price": "",
+            "genre": "IT-Event",
+            "frequency": "Yearly"
+        }
+    ],
 }
