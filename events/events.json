@@ -345,6 +345,10 @@
             "dev_comment": "Source for expected_attendees: https://de.wikifur.com/wiki/Schwarzwaldcon",
             "start": "2024-05-09",
             "end": "2024-05-12"
+        },
+        {
+            "start": "2026-05-14",
+            "end": "2026-05-17"
         }
     ],
     "MephitMiniCon": [
