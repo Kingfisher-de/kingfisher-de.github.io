@@ -2622,6 +2622,16 @@
             "genre": "Chaos-Event"
         }
     ],
+    "Eaglefurdance": [
+        {
+            "link": "https://eaglefurdance.com/en",
+            "genre": "Furdance",
+            "start": "2026-03-28",
+            "end": "2026-03-28",
+            "todo_location": "Aarau",
+            "frequency": "Yearly"
+        }
+    ],
     "Spieleentwicklung Bodensee": [
         {
             "link": "https://spieleentwicklung-bodensee.de/",
