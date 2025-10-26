@@ -2621,5 +2621,15 @@
             "frequency": "Irregular",
             "genre": "Chaos-Event"
         }
+    ],
+    "Spieleentwicklung Bodensee": [
+        {
+            "link": "https://spieleentwicklung-bodensee.de/",
+            "todo_location": "Markdorf",
+            "start": "2025-11-15",
+            "end": "2025-11-15",
+            "frequency": "Monthly",
+            "genre": "Chaos-Event"
+        }
     ]
 }
