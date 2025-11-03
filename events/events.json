@@ -2411,8 +2411,8 @@
             "machine_readable_location": "49.41551,8.74342"
         },
         {
-            "start": "2025-10-24T14:00+02:00",
-            "end": "2025-10-26T15:00+02:00"
+            "start": "2025-10-24",
+            "end": "2025-10-26"
         }
     ],
     "Esslinger Suitwalk": [
@@ -2819,10 +2819,12 @@
             "link": "https://osmc.de/",
             "start": "2025-11-18",
             "end": "2025-11-20",
+            "input_location": "Nürnberg",
             "expected_attendees": "250",
-            "ticket_price": "",
             "genre": "IT-Event",
-            "frequency": "Yearly"
+            "frequency": "Yearly",
+            "human_readable_location": "Nürnberg, Bayern",
+            "machine_readable_location": "49.4538720,11.0772980"
         }
     ],
     "HügelCon": [
@@ -2855,8 +2857,8 @@
             "genre": "Misc.",
             "frequency": "Yearly",
             "input_location": "Düsseldorf",
-            "start": "2026-05-29T11:00:00.000Z",
-            "end": "2026-05-31T18:00:00.000Z",
+            "start": "2026-05-29",
+            "end": "2026-05-31",
             "human_readable_location": "Düsseldorf, Nordrhein-Westfalen",
             "machine_readable_location": "51.2254018,6.7763137"
         }

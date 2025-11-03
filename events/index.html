@@ -160,7 +160,7 @@
             for (eve of eves) {
                 if (eve.machine_readable_location === undefined) {
                     eve.drivetime_secs = undefined;
-                    eve.drivetime = "multiple places"
+                    eve.drivetime = "N/A"
                 } else {
                     eve.drivetime_secs = undefined;
                     eve.drivetime = "loading ..."
@@ -194,11 +194,11 @@
         "start": "Begin",
         "end": "End",
         "daynum": "Number of Days",
-        "expected_attendees": "Expected Number of Attendees",
+        //"expected_attendees": "Expected Number of Attendees",
         "frequency": "Frequency",
         "human_readable_location": "Location",
         "drivetime": "Travel Time (car)",
-        "ticket_price": "Ticket Price",
+        //"ticket_price": "Ticket Price",
     };
     function toggle_select_all() {
         var count_checked = 0;
