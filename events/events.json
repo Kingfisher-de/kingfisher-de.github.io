@@ -107,9 +107,11 @@
             "end": "2025-02-16"
         },
         {
-            "todo_location": "Dreiklang Steinhausen, Switzerland",
+            "input_location": "Dreiklang Steinhausen, Switzerland",
             "start": "2026-02-27",
-            "end": "2026-03-01"
+            "end": "2026-03-01",
+            "human_readable_location": "Steinhausen, Zug",
+            "machine_readable_location": "47.1962228,8.4835088"
         }
     ],
     "NordicFuzzCon": [
@@ -143,6 +145,10 @@
             "ticket_price": "Sold Out",
             "start": "2024-02-28",
             "end": "2024-03-03"
+        },
+        {
+            "start": "2026-03-18",
+            "end": "2026-03-22"
         }
     ],
     "Winterkongress": [
@@ -226,7 +232,9 @@
         {
             "start": "2026-03-25",
             "end": "2026-03-28",
-            "todo_location": "Göttingen"
+            "input_location": "Göttingen",
+            "human_readable_location": "Göttingen, Niedersachsen",
+            "machine_readable_location": "51.5328328,9.9351811"
         }
     ],
     "Easterhegg": [
@@ -273,16 +281,22 @@
             "ticket_price": "No Registration Required",
             "start": "2024-04-05",
             "end": "2024-04-06"
+        },
+        {
+            "start": "2026-04-10",
+            "end": "2026-04-11"
         }
     ],
-    "Voralberg Linuxtag": [
+    "Linuxtag Dornbirn": [
         {
             "link": "https://www.linuxday.at/",
             "genre": "IT-Event",
-            "todo_location": "Voralberg",
+            "input_location": "Dornbirn",
             "frequency": "Yearly",
             "start": "2025-09-27",
-            "end": "2025-09-27"
+            "end": "2025-09-27",
+            "human_readable_location": "Dornbirn, Vorarlberg",
+            "machine_readable_location": "47.4136351,9.7423762"
         }
     ],
     "Linuxwochen Eisenstadt": [
@@ -313,10 +327,12 @@
         {
             "link": "https://reffurence.com/",
             "genre": "Furry-Convention",
-            "todo_location": "Hotel Zuiderduin, Egmond aan Zee",
+            "input_location": "Hotel Zuiderduin, Egmond aan Zee",
             "frequency": "Yearly",
             "start": "2025-10-30",
-            "end": "2025-11-02"
+            "end": "2025-11-02",
+            "human_readable_location": "Egmond aan Zee, Noord-Holland",
+            "machine_readable_location": "52.6164400,4.6250231"
         }
     ],
     "UnFUCK": [
@@ -342,6 +358,10 @@
             "frequency": "Yearly",
             "start": "2024-05-03",
             "end": "2024-05-06"
+        },
+        {
+            "start": "2025-04-25",
+            "end": "2025-04-28"
         }
     ],
     "Schwarzwaldcon": [
@@ -390,6 +410,10 @@
         {
             "start": "2025-06-12",
             "end": "2025-06-15"
+        },
+        {
+            "start": "2026-05-28",
+            "end": "2026-05-31"
         }
     ],
     "Electromagnetic Field": [
@@ -448,6 +472,10 @@
             "dev_comment": "Source for expected_attendees: https://zfoh.ch/zurihac2020/",
             "start": "2024-06-08",
             "end": "2024-06-10"
+        },
+        {
+            "start": "2025-06-07",
+            "end": "2025-06-09"
         }
     ],
     "VVoid Camp": [
@@ -494,6 +522,10 @@
             "dev_comment": "Source for expected_attendees: https://en.wikifur.com/wiki/CastleCon",
             "start": "2024-06-14",
             "end": "2024-06-16"
+        },
+        {
+            "start": "2026-06-19",
+            "end": "2026-06-21"
         }
     ],
     "Bavarian Furdance": [
@@ -551,9 +583,10 @@
             "expected_attendees": "300"
         },
         {
+            "date": "2026-07-04",
+            "expected_attendees": "300",
             "start": "2026-07-04",
-            "end": "2026-07-04",
-            "expected_attendees": "300"
+            "end": "2026-07-04"
         }
     ],
     "Hack an der Ruhr": [
@@ -710,6 +743,10 @@
             "dev_comment": "Source for expected_attendees: https://en.wikifur.com/wiki/Furgether",
             "start": "2024-07-25",
             "end": "2024-07-28"
+        },
+        {
+            "start": "2026-07-22",
+            "end": "2026-07-25"
         }
     ],
     "EAST": [
@@ -727,6 +764,10 @@
         {
             "start": "2025-09-17",
             "end": "2025-09-21"
+        },
+        {
+            "start": "2026-08-05",
+            "end": "2026-08-09"
         }
     ],
     "FrOSCon": [
@@ -850,6 +891,10 @@
             "ticket_price": "140 € (includes Hostel)",
             "start": "2024-10-01 (14:00)",
             "end": "2024-10-06 (15:00)"
+        },
+        {
+            "start": "2025-10-01",
+            "end": "2025-10-05"
         }
     ],
     "GoldenLeavesCon": [
@@ -878,6 +923,10 @@
             "expected_attendees": "250",
             "start": "2024-11-06",
             "end": "2024-11-11"
+        },
+        {
+            "start": "2025-11-05",
+            "end": "2025-11-09"
         }
     ],
     "CCC": [
@@ -969,7 +1018,8 @@
             "end": "2025-03-22"
         },
         {
-            "day": "2025-05-24"
+            "start": "2025-05-24",
+            "end": "2025-05-24"
         }
     ],
     "Heilbronner Suitwalk": [
@@ -1149,11 +1199,13 @@
         {
             "link": "https://suitwalk-rheinfelden.ch/",
             "genre": "Furry-Suitwalk",
-            "todo_location": "Rheinfelden, Switzerland",
+            "input_location": "Rheinfelden, Switzerland",
             "frequency": "Irregular",
             "ticket_price": "Free",
             "start": "2025-10-04",
-            "end": "2025-10-04"
+            "end": "2025-10-04",
+            "human_readable_location": "Rheinfelden, Aargau",
+            "machine_readable_location": "47.5543859,7.7922905"
         }
     ],
     "AYCE Stammtisch Karlsruhe": [
@@ -1301,6 +1353,10 @@
         {
             "start": "2025-07-05 19:00",
             "end": "2025-07-05 (3:00 am tag dannach)"
+        },
+        {
+            "start": "2026-06-20",
+            "end": "2026-06-20"
         }
     ],
     "Rheinfurdance": [
@@ -1329,9 +1385,13 @@
             "start": "2024-11-30",
             "end": "2024-12-01",
             "expected_attendees": "48000"
+        },
+        {
+            "start": "2025-11-29",
+            "end": "2025-11-30"
         }
     ],
-    "TwoDance Afterdark": [
+    "TwoDance": [
         {
             "link": "https://two-dance.de/",
             "genre": "Furdance",
@@ -1339,18 +1399,11 @@
             "machine_readable_location": "51.69269,7.92908",
             "frequency": "Yearly",
             "start": "2024-04-05 18:00",
-            "end": "2024-04-05 (2:00 next morning)"
-        }
-    ],
-    "TwoDance Furdance": [
-        {
-            "link": "https://two-dance.de/",
-            "genre": "Furdance",
-            "human_readable_location": "Hamm, North Rhine-Westphalia",
-            "machine_readable_location": "51.69269,7.92908",
-            "frequency": "Yearly",
-            "start": "2024-04-06 18:00",
             "end": "2024-04-06 (2:00 next morning)"
+        },
+        {
+            "start": "2026-04-10",
+            "end": "2026-04-12"
         }
     ],
     "FurryTram Frankfurt": [
@@ -1364,6 +1417,10 @@
             "end": "2024-04-13 22:30",
             "ticket_price": "64 €",
             "expected_attendees": "50"
+        },
+        {
+            "start": "2026-03-07",
+            "end": "2026-03-07"
         }
     ],
     "Stuttgarter Furry-Stammtisch": {
@@ -1480,7 +1537,7 @@
     ],
     "Weinbergfurdance": [
         {
-            "link": "https://weinbergfurs.de/suitwalks/weinbergfurdance",
+            "link": "https://dance.weinbergfurs.de/",
             "genre": "Furdance",
             "frequency": "Yearly",
             "human_readable_location": "Altrip, Rhineland-Palatinate",
@@ -1488,6 +1545,10 @@
             "start": "2024-06-01 16:00",
             "end": "2024-06-01 (2:00 next morning)",
             "ticket_price": "35 €"
+        },
+        {
+            "start": "2025-06-14",
+            "end": "2025-06-14"
         }
     ],
     "FinFur Animus": [
@@ -1542,6 +1603,10 @@
             "human_readable_location": "Nuremberg, Bavaria",
             "machine_readable_location": "49.42203,11.11864",
             "ticket_price": "25 €"
+        },
+        {
+            "start": "2026-03-10",
+            "end": "2026-03-12"
         }
     ],
     "Haxogreen": [
@@ -1577,6 +1642,10 @@
             "end": "2024-07-21",
             "human_readable_location": "Tangen, Norway",
             "machine_readable_location": "60.49558,10.58268"
+        },
+        {
+            "start": "2026-07-09",
+            "end": "2026-07-13"
         }
     ],
     "Linux-Infotag Augsburg": [
@@ -1590,6 +1659,10 @@
             "machine_readable_location": "48.3584,10.9061",
             "ticket_price": "No Registration Required",
             "expected_attendees": "350"
+        },
+        {
+            "start": "2025-04-26",
+            "end": "2025-04-26"
         }
     ],
     "oSC": [
@@ -1628,6 +1701,13 @@
             "machine_readable_location": "48.18018,16.43081",
             "ticket_price": "180 €",
             "expected_attendees": "500"
+        },
+        {
+            "start": "2026-10-14",
+            "end": "2026-10-17",
+            "input_location": "Barcelona",
+            "human_readable_location": "Barcelona, Catalunya",
+            "machine_readable_location": "41.3825802,2.1770730"
         }
     ],
     "DHCP": [
@@ -1664,7 +1744,9 @@
             "frequency": "Yearly",
             "start": "2025-06-27 16:00",
             "end": "2025-06-27",
-            "todo_location": "shackspace"
+            "input_location": "shackspace",
+            "human_readable_location": "Stuttgart, Baden-Württemberg",
+            "machine_readable_location": "48.7745260,9.2389921"
         }
     ],
     "Linux Plumbers Conference": [
@@ -1691,6 +1773,10 @@
             "start": "2024-09-04",
             "end": "2024-09-08",
             "expected_attendees": "200"
+        },
+        {
+            "start": "2025-09-09",
+            "end": "2025-09-14"
         }
     ],
     "SinFur Main Event": [
@@ -1703,6 +1789,10 @@
             "start": "2024-07-27",
             "end": "2024-07-27",
             "ticket_price": "55 €"
+        },
+        {
+            "start": "2025-05-31",
+            "end": "2025-05-31"
         }
     ],
     "SinFur BBQ-Event": [
@@ -1715,6 +1805,10 @@
             "start": "2024-07-26",
             "end": "2024-07-26",
             "ticket_price": "10 €"
+        },
+        {
+            "start": "2025-05-30",
+            "end": "2025-05-30"
         }
     ],
     "Furmeet Odenwaldhütte": [
@@ -1784,6 +1878,10 @@
             "machine_readable_location": "52.15327,11.63600",
             "start": "2024-06-15",
             "end": "2024-06-15"
+        },
+        {
+            "start": "2025-07-19",
+            "end": "2025-07-19"
         }
     ],
     "VSpace Sommerfest": [
@@ -1806,10 +1904,12 @@
         {
             "genre": "Chaos-Event",
             "frequency": "Yearly",
-            "todo_location": "hacknology",
+            "input_location": "hacknology",
             "start": "2025-05-10",
             "end": "2025-05-10",
-            "freetext": "bei schlechtem Wetter weichen wir auf den 17.05. aus"
+            "freetext": "bei schlechtem Wetter weichen wir auf den 17.05. aus",
+            "human_readable_location": "Verwaltungsgemeinschaft Konstanz, Baden-Württemberg",
+            "machine_readable_location": "47.6589222,9.1662340"
         }
     ],
     "Fantasy Basel": [
@@ -1822,6 +1922,10 @@
             "start": "2024-05-09",
             "end": "2024-05-11",
             "expected_attendees": "60000"
+        },
+        {
+            "start": "2026-05-14",
+            "end": "2026-05-16"
         }
     ],
     "Anime Focal": [
@@ -1988,6 +2092,10 @@
             "end": "2024-06-29",
             "human_readable_location": "Rapperswil, Switzerland",
             "machine_readable_location": "47.22392,8.81725"
+        },
+        {
+            "start": "2025-06-26",
+            "end": "2025-06-27"
         }
     ],
     "fedicamp": [
@@ -2022,23 +2130,31 @@
     "Vintage Computer Festival Europe": [
         {
             "link": "https://www.vcfe.org/D/",
-            "genre": "Chaos-Event",
+            "genre": "IT-Event",
             "frequency": "Yearly",
             "start": "2024-09-07",
             "end": "2024-09-09",
             "human_readable_location": "Munich, Bavaria",
             "machine_readable_location": "48.13226,11.62732"
+        },
+        {
+            "start": "2025-05-03",
+            "end": "2025-05-04"
         }
     ],
     "Circuit Control": [
         {
-            "link": "https://www.metaknoten.net/veranstaltungen/circuit-control-festival-2024",
+            "link": "https://circuit-control.de/",
             "genre": "Chaos-Event",
             "frequency": "Yearly",
             "start": "2024-09-09",
             "end": "2024-09-15",
             "human_readable_location": "Dresden, Saxony",
             "machine_readable_location": "51.08153,13.73039"
+        },
+        {
+            "start": "2025-09-08",
+            "end": "2025-09-13"
         }
     ],
     "BalCCon": [
@@ -2097,13 +2213,17 @@
     ],
     "camp++": [
         {
-            "link": "https://camp.hsbp.org/2024/pp7e8/",
+            "link": "https://camp.hsbp.org/",
             "genre": "Chaos-Event",
             "frequency": "Yearly",
             "start": "2024-08-08",
             "end": "2024-08-12",
             "human_readable_location": "Hungary",
             "machine_readable_location": "47.66935,18.30581"
+        },
+        {
+            "start": "2025-07-03",
+            "end": "2025-07-06"
         }
     ],
     "Flashback Symposium": [
@@ -2173,6 +2293,10 @@
             "end": "2024-10-02",
             "human_readable_location": "Dresden, Saxony",
             "machine_readable_location": "51.04395,13.74676"
+        },
+        {
+            "start": "2025-11-24",
+            "end": "2025-11-25"
         }
     ],
     "ACME Labs - Tag der offenen Tür": [
@@ -2229,6 +2353,10 @@
             "end": "2024-08-18",
             "human_readable_location": "Cologne, North Rhine-Westphalia",
             "machine_readable_location": "50.93523,7.00903"
+        },
+        {
+            "start": "2026-08-21",
+            "end": "2026-08-23"
         }
     ],
     "Hacks on the Beach": [
@@ -2240,6 +2368,10 @@
             "end": "2024-09-30",
             "human_readable_location": "Flensburg, Schleswig-Holstein",
             "machine_readable_location": "54.82344,9.49020"
+        },
+        {
+            "start": "2025-09-19",
+            "end": "2025-09-21"
         }
     ],
     "Sachsen Furs Jahreswechsel": [
@@ -2277,6 +2409,10 @@
             "end": "2024-11-04",
             "human_readable_location": "Heidelberg, Baden-Württemberg",
             "machine_readable_location": "49.41551,8.74342"
+        },
+        {
+            "start": "2025-10-24T14:00+02:00",
+            "end": "2025-10-26T15:00+02:00"
         }
     ],
     "Esslinger Suitwalk": [
@@ -2426,6 +2562,10 @@
             "machine_readable_location": "51.48094,7.20860",
             "frequency": "Yearly",
             "genre": "Chaos-Event"
+        },
+        {
+            "start": "2025-11-14",
+            "end": "2025-11-16"
         }
     ],
     "Tag des offenen Hackspace": [
@@ -2611,7 +2751,9 @@
             "genre": "Furdance",
             "start": "2025-10-11 18:00",
             "end": "2025-10-11",
-            "todo_location": "Richard-Wagner-Straße 9, 66111 Saarbrücken"
+            "input_location": "Richard-Wagner-Straße 9, 66111 Saarbrücken",
+            "human_readable_location": "Saarbrücken, Saarland",
+            "machine_readable_location": "49.2389768,6.9956460"
         }
     ],
     "30 Jahre c-base": [
@@ -2642,28 +2784,34 @@
             "genre": "Furdance",
             "start": "2026-03-28",
             "end": "2026-03-28",
-            "todo_location": "Aarau",
-            "frequency": "Yearly"
+            "input_location": "Aarau",
+            "frequency": "Yearly",
+            "human_readable_location": "Aarau, Aargau",
+            "machine_readable_location": "47.3927146,8.0444448"
         }
     ],
     "Spieleentwicklung Bodensee": [
         {
             "link": "https://spieleentwicklung-bodensee.de/",
-            "todo_location": "Markdorf",
+            "input_location": "Markdorf",
             "start": "2025-11-15",
             "end": "2025-11-15",
             "frequency": "Monthly",
-            "genre": "Chaos-Event"
+            "genre": "Chaos-Event",
+            "human_readable_location": "Verwaltungsverband Markdorf, Baden-Württemberg",
+            "machine_readable_location": "47.7206084,9.3917257"
         }
     ],
     "Pawsome": [
         {
             "link": "https://www.pawsome.org.uk/",
-            "todo_location": "Gloucester, United Kingdom",
+            "input_location": "Gloucester, United Kingdom",
             "start": "2025-10-03",
             "end": "2025-10-06",
             "frequency": "Yearly",
-            "genre": "Furry-Convention"
+            "genre": "Furry-Convention",
+            "human_readable_location": "Gloucester, England",
+            "machine_readable_location": "51.8653705,-2.2458192"
         }
     ],
     "OSMC": [
@@ -2675,6 +2823,85 @@
             "ticket_price": "",
             "genre": "IT-Event",
             "frequency": "Yearly"
+        }
+    ],
+    "HügelCon": [
+        {
+            "link": "https://huegelcon.de/",
+            "genre": "Misc.",
+            "frequency": "Yearly",
+            "input_location": "Tübingen",
+            "start": "2026-06-27",
+            "end": "2026-06-28",
+            "human_readable_location": "Tübingen, Baden-Württemberg",
+            "machine_readable_location": "48.5203263,9.0535960"
+        }
+    ],
+    "Confuzzled": [
+        {
+            "link": "https://confuzzled.org.uk/",
+            "input_location": "Birmingham",
+            "genre": "Furry-Convention",
+            "frequency": "Yearly",
+            "start": "2026-05-22",
+            "end": "2026-05-26",
+            "human_readable_location": "Birmingham, England",
+            "machine_readable_location": "52.4796992,-1.9026911"
+        }
+    ],
+    "Dokomi": [
+        {
+            "link": "https://www.dokomi.de/",
+            "genre": "Misc.",
+            "frequency": "Yearly",
+            "input_location": "Düsseldorf",
+            "start": "2026-05-29T11:00:00.000Z",
+            "end": "2026-05-31T18:00:00.000Z",
+            "human_readable_location": "Düsseldorf, Nordrhein-Westfalen",
+            "machine_readable_location": "51.2254018,6.7763137"
+        }
+    ],
+    "OACT": [
+        {
+            "link": "https://oact.de",
+            "genre": "Tent-Camp",
+            "frequency": "Yearly",
+            "input_location": "Schwangau",
+            "start": "2025-08-19",
+            "end": "2025-08-24",
+            "human_readable_location": "Schwangau, Bayern",
+            "machine_readable_location": "47.5768030,10.7373475"
+        }
+    ],
+    "NixCon": [
+        {
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "start": "2024-10-25",
+            "end": "2024-10-27"
+        },
+        {
+            "start": "2025-09-05",
+            "end": "2025-09-07"
+        }
+    ],
+    "Devopsdays Zürich": [
+        {
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "input_location": "Zürich",
+            "start": "2024-04-16",
+            "end": "2024-04-17",
+            "human_readable_location": "Zürich, Zürich",
+            "machine_readable_location": "47.3744489,8.5410422"
+        },
+        {
+            "start": "2025-03-12",
+            "end": "2025-03-13"
+        },
+        {
+            "start": "2026-05-06",
+            "end": "2026-05-07"
         }
     ]
 }
