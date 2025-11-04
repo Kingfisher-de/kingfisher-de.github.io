@@ -66,24 +66,7 @@
 </head>
 
 <script language="javascript" defer>
-    // todo: don't show events that are sold out
-
-    // todo: if I check "Encode filter settings into URL", change something in the url, the box is no longer checked
-
-    // todo: https://en.wikipedia.org/wiki/Quadrennial_Dutch_hacker_convention
-
     // todo: Download of monthly event should follow https://icalendar.org/iCalendar-RFC-5545/3-8-5-3-recurrence-rule.html
-
-    // todo: https://en.wikifur.com/wiki/List_of_in-person_furry_conventions_by_attendance
-
-    // todo: recheck all events from my excel table
-
-    // todo: https://ulmer-furs.de/events/
-
-    // todo: https://westside-furs.com/?page_id=295
-
-    // todo: performance: side takes long to load
-
     function date_ical_format(date) {
         return date.getUTCFullYear() + String(date.getUTCMonth() + 1).padStart(2, "0") + String(date.getUTCDate()).padStart(2, "0") + "T" + String(date.getHours()).padStart(2, "0") + String(date.getMinutes()).padStart(2, "0") + String(date.getSeconds()).padStart(2, "0")
     }
@@ -93,7 +76,7 @@
     }
 
     function date_ical_format_evening(date) {
-        return date.getUTCFullYear() + String(date.getUTCMonth() + 1).padStart(2, "0") + String(date.getUTCDate()).padStart(2, "0") + "T230000" // the times are wrong. Also, timezones.
+        return date.getUTCFullYear() + String(date.getUTCMonth() + 1).padStart(2, "0") + String(date.getUTCDate()).padStart(2, "0") + "T230000"
     }
 
     function event_as_ical(eve) {
@@ -188,7 +171,7 @@
         }
         setTimeout(thread_like_callback, 100);
     }
-    var columns = { // todo: are js-dicts guaranteed to be ordered
+    var columns = {
         "select_checkbox": '<button onclick="ical_download()">download selected for calendar import</button><button onclick="toggle_select_all()">(un-)select all</button>',
         "name": "Event Name",
         "start": "Begin",
@@ -296,7 +279,6 @@
         var newtbody = document.createElement("tbody");
         newtbody.id = "swappy";
         for (eve of eves) {
-            // todo: show an "no events" message if every event gets filtered out
             if (is_filtered_out(eve)) {
                 continue;
             }
@@ -542,7 +524,6 @@
                     }
                     last = el;
                     el.name = name;
-                    // todo: The same console.asserts should be done in spawn_event
                     console.assert("genre" in el);
                     console.assert("frequency" in el);
                     eves.push(el);
@@ -556,6 +537,8 @@
 
                     eve.start = date.getUTCFullYear() + "-" + String(date.getUTCMonth() + 1).padStart(2, "0") + "-" + String(date.getUTCDate()).padStart(2, "0");
                     eve.end = eve.start;
+                    console.assert("genre" in eve);
+                    console.assert("frequency" in eve);
                     eves.push(eve);
                 }
                 ar.frequency = ar.date_rule[0];

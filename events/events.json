@@ -312,7 +312,7 @@
     ],
     "Furciety": [
         {
-            "link": "https://furciety.de/",
+            "link": "https://furciety.org/",
             "genre": "Furry-Convention",
             "human_readable_location": "Recklinghausen, North Rhine-Westphalia",
             "machine_readable_location": "51.65779,7.24186",
@@ -321,6 +321,10 @@
             "dev_comment": "Source for expected_attendees: I mailed them",
             "start": "2024-04-25",
             "end": "2024-04-28"
+        },
+        {
+            "start": "2026-04-29",
+            "end": "2026-05-03"
         }
     ],
     "Reffurence": [
@@ -427,6 +431,10 @@
             "dev_comment": "Source for expected_attendees: https://en.wikipedia.org/wiki/Electromagnetic_Field_(festival)",
             "start": "2024-05-30",
             "end": "2024-06-02"
+        },
+        {
+            "start": "2026-07-16",
+            "end": "2026-07-19"
         }
     ],
     "GPN": [
@@ -642,6 +650,10 @@
             "dev_comment": "Source for expected_attendees: https://www.lakesidefurs.at/location 'Die Herberge bietet Platz für bis zu 51 Teilnehmer'",
             "start": "2024-06-29",
             "end": "2024-07-06"
+        },
+        {
+            "start": "2026-06-28",
+            "end": "2026-07-05"
         }
     ],
     "Lakefuzzies Stammtisch": [
@@ -833,6 +845,10 @@
             "dev_comment": "Source for expected_attendees: https://en.wikifur.com/wiki/Furgether",
             "start": "2024-09-13",
             "end": "2024-09-16"
+        },
+        {
+            "start": "2025-09-11",
+            "end": "2025-09-15"
         }
     ],
     "Eurofurence": [
@@ -1206,6 +1222,10 @@
             "end": "2025-10-04",
             "human_readable_location": "Rheinfelden, Aargau",
             "machine_readable_location": "47.5543859,7.7922905"
+        },
+        {
+            "start": "2026-02-28",
+            "end": "2026-02-28"
         }
     ],
     "AYCE Stammtisch Karlsruhe": [
@@ -1675,6 +1695,10 @@
             "human_readable_location": "Nuremberg, Bavaria",
             "machine_readable_location": "49.43008,11.09384",
             "ticket_price": "Free"
+        },
+        {
+            "start": "2025-06-26",
+            "end": "2025-06-28"
         }
     ],
     "Akademy": [
@@ -1761,6 +1785,10 @@
             "expected_attendees": "400",
             "ticket_price": "375 €",
             "dev_comment": "Source for expected_attendees: https://lpc.events/blog/2022/"
+        },
+        {
+            "start": "2025-12-11",
+            "end": "2025-12-13"
         }
     ],
     "Tropical Furry Islands": [
@@ -2023,7 +2051,7 @@
         {
             "link": "https://www.bytewerk.org/",
             "genre": "Chaos-Event",
-            "frequency": "Yearly",
+            "frequency": "Irregular",
             "start": "2024-03-09",
             "end": "2024-03-10",
             "human_readable_location": "Ingolstadt, Bavaria",
@@ -2043,7 +2071,7 @@
         {
             "link": "https://chaosdorf.de/2024/04/23-jahre-chaosdorf/",
             "genre": "Chaos-Event",
-            "frequency": "Yearly",
+            "frequency": "Irregular",
             "start": "2024-04-20",
             "end": "2024-04-21",
             "human_readable_location": "Düsseldorf, North Rhine-Westphalia",
@@ -2107,6 +2135,10 @@
             "end": "2024-07-22",
             "human_readable_location": "Lower Saxony",
             "machine_readable_location": "53.03014,11.30785"
+        },
+        {
+            "start": "2026-08-04",
+            "end": "2026-08-09"
         }
     ],
     "Hackover": [
@@ -2303,7 +2335,7 @@
         {
             "link": "https://events.ccc.de/2024/06/10/acmelabs-tdot/",
             "genre": "Chaos-Event",
-            "frequency": "Yearly",
+            "frequency": "Irregular",
             "start": "2024-06-15 13:00",
             "end": "2024-06-15",
             "human_readable_location": "Bielefeld, North Rhine-Westphalia",
@@ -2538,7 +2570,7 @@
             "end": "2024-12-14",
             "human_readable_location": "Speyer, Rhineland-Palatinate",
             "machine_readable_location": "49.33404,8.44400",
-            "frequency": "Yearly",
+            "frequency": "Irregular",
             "genre": "Misc."
         }
     ],
@@ -2885,6 +2917,15 @@
         {
             "start": "2025-09-05",
             "end": "2025-09-07"
+        }
+    ],
+    "LugCamp": [
+        {
+            "link": "https: //www.lug-camp-2025.de/",
+            "genre": "Tent-Camp",
+            "frequency": "Yearly",
+            "start": "2025-05-29",
+            "end": "2025-06-01"
         }
     ],
     "Devopsdays Zürich": [
