@@ -165,6 +165,10 @@
         {
             "start": "2025-02-28",
             "end": "2025-03-01"
+        },
+        {
+            "start": "2026-02-20",
+            "end": "2026-02-21"
         }
     ],
     "Chemnitzer Linuxtage": [
@@ -1075,32 +1079,6 @@
             "end": "2025-09-06"
         }
     ],
-    "Heilbronner Furry-Stammtisch": {
-        "link": "https://weinbergfurs.de/suitwalks/heilbronn",
-        "genre": "Furry-Stammtisch",
-        "human_readable_location": "Heilbronn, Baden-Württemberg",
-        "machine_readable_location": "49.18695,9.22477",
-        "ticket_price": "Free",
-        "expected_attendees": "20",
-        "date_rule": [
-            "Monthly",
-            "Saturday",
-            "1"
-        ]
-    },
-    "Chaostreff Backnang": {
-        "link": "https://hacknang.de/chaostreff/",
-        "genre": "Chaos-Event",
-        "human_readable_location": "Backnang, Baden-Württemberg",
-        "machine_readable_location": "48.94866,9.42961",
-        "ticket_price": "No Registration Required",
-        "expected_attendees": "20",
-        "date_rule": [
-            "Monthly",
-            "Sunday",
-            "3"
-        ]
-    },
     "Chaostreff Backnang e.V. Mitgliederversammlung": [
         {
             "frequency": "Yearly",
@@ -1113,55 +1091,6 @@
             "end": "2024-10-13"
         }
     ],
-    "Chaostreff Tübingen im KI-Makerspace": {
-        "link": "https://cttue.de/",
-        "genre": "Chaos-Event",
-        "human_readable_location": "Tübingen, Baden-Württemberg",
-        "machine_readable_location": "48.51782,9.06092",
-        "ticket_price": "No Registration Required",
-        "date_rule": [
-            "Monthly",
-            "Sunday",
-            "0"
-        ]
-    },
-    "Chaostreff Tübingen im Fablab": {
-        "link": "https://cttue.de/",
-        "genre": "Chaos-Event",
-        "human_readable_location": "Tübingen, Baden-Württemberg",
-        "machine_readable_location": "48.51561,9.06304",
-        "ticket_price": "No Registration Required",
-        "date_rule": [
-            "Monthly",
-            "Monday",
-            "2"
-        ]
-    },
-    "Hobbyhimmel Teammeeting": {
-        "link": "https://hobbyhimmel.de/series/hobbyhimmel-offenes-teammeeting/",
-        "genre": "Misc.",
-        "human_readable_location": "Stuttgart, Baden-Württemberg",
-        "machine_readable_location": "48.81865,9.16971",
-        "ticket_price": "No Registration Required",
-        "expected_attendees": "10",
-        "date_rule": [
-            "Monthly",
-            "Thursday",
-            "1"
-        ]
-    },
-    "NoName e.V. Stammtisch": {
-        "link": "https://www.noname-ev.de/",
-        "genre": "Chaos-Event",
-        "human_readable_location": "Heidelberg, Baden-Württemberg",
-        "machine_readable_location": "49.41747,8.67545",
-        "ticket_price": "No Registration Required",
-        "date_rule": [
-            "Monthly",
-            "Thursday",
-            "1"
-        ]
-    },
     "Karlsruher Suitwalk": [
         {
             "link": "https://karlsfurs.de/",
@@ -1443,31 +1372,6 @@
             "end": "2026-03-07"
         }
     ],
-    "Stuttgarter Furry-Stammtisch": {
-        "link": "https://t.me/FurryStammtisch/1",
-        "genre": "Furry-Stammtisch",
-        "human_readable_location": "Stuttgart, Baden-Württemberg",
-        "machine_readable_location": "48.82150,9.20581",
-        "date_rule": [
-            "Monthly",
-            "Saturday",
-            "2"
-        ],
-        "ticket_price": "1 €",
-        "expected_attendees": "25"
-    },
-    "Zig-Space": {
-        "link": "https://gerlingen.digital/index.php?r=space%2Fspace&cguid=ac4a8f3c-d0b6-45dd-9bb9-f03936f131e2",
-        "genre": "Chaos-Event",
-        "human_readable_location": "Gerlingen, Baden-Württemberg",
-        "machine_readable_location": "48.79769,9.06332",
-        "date_rule": [
-            "Monthly",
-            "Friday",
-            "4"
-        ],
-        "ticket_price": "No Registration Required"
-    },
     "Rheinfurs Suitwalk": [
         {
             "link": "https://reg.rheinfurs.de/meetup/5-RheinFurs-Suitwalk-kurpark-wiesbaden",
@@ -1966,52 +1870,6 @@
             "start": "2025-02-08",
             "end": "2025-02-09",
             "expected_attendees": "20000"
-        }
-    ],
-    "jetzt": [
-        {
-            "link": "https://chaos.jetzt/articles/jetzt4-tickets-verfuegbar.html",
-            "genre": "Chaos-Event",
-            "start": "2024-02-09",
-            "end": "2024-02-12",
-            "human_readable_location": "Bochum, North Rhine-Westphalia",
-            "machine_readable_location": "51.48091,7.20856",
-            "frequency": "Irregular"
-        },
-        {
-            "link": "https://chaos.jetzt/articles/jetzt5-tickets-verfuegbar.html",
-            "start": "2024-05-24",
-            "end": "2024-05-27",
-            "human_readable_location": "Dresden, Saxony",
-            "machine_readable_location": "51.08106,13.72854"
-        },
-        {
-            "link": "https://events.ccc.de/2024/05/27/jetzt6-geekend/",
-            "start": "2024-09-06",
-            "end": "2024-09-09",
-            "human_readable_location": "Vienna, Austria",
-            "machine_readable_location": "48.20946,16.35609"
-        },
-        {
-            "link": "https://events.ccc.de/2024/10/18/jetzt7-geekend/",
-            "start": "2024-12-13",
-            "end": "2024-12-15",
-            "human_readable_location": "Ulm, Baden-Württemberg",
-            "machine_readable_location": "48.39628,10.00199"
-        },
-        {
-            "link": "https://tickets.chaos.jetzt/jetzt9/",
-            "start": "2025-05-23",
-            "end": "2025-05-26",
-            "human_readable_location": "Leipzig, Sachsen",
-            "machine_readable_location": "51.3464320,12.3962347"
-        },
-        {
-            "link": "https://chaos.jetzt/jetzt11",
-            "start": "2025-11-07",
-            "end": "2025-11-10",
-            "human_readable_location": "Frankfurt am Main, Hessen",
-            "machine_readable_location": "50.1088072,8.6564356"
         }
     ],
     "Hack im Pott": [
@@ -2519,17 +2377,6 @@
             "genre": "IT-Event"
         }
     ],
-    "Hackergarten Stuttgart": {
-        "link": "https://www.meetup.com/de-DE/hackergarten-stuttgart/",
-        "human_readable_location": "Vaihingen, Baden-Württemberg",
-        "machine_readable_location": "48.72593,9.11445",
-        "genre": "IT-Event",
-        "date_rule": [
-            "Monthly",
-            "Tuesday",
-            "1"
-        ]
-    },
     "Hackumenta": [
         {
             "link": "https://2024.hackumenta.de/",
