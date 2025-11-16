@@ -2779,6 +2779,16 @@
             "end": "2025-06-01"
         }
     ],
+    "Furvaria": [
+        {
+            "genre": "Furry-Convention",
+            "frequency": "Yearly",
+            "human_readable_location": "Marxheim, Bavaria",
+            "machine_readable_location": "48.74177,10.94652",
+            "start": "2026-06-11",
+            "end": "2026-06-14"
+        }
+    ],
     "Devopsdays Zürich": [
         {
             "genre": "IT-Event",
