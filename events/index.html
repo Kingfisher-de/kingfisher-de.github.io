@@ -337,7 +337,8 @@
                         cell.appendChild(document.createTextNode(daynum));
                     } else if (["start", "end"].includes(column)) {
                         date = parsedate(eve[column])
-                        txt = date.toLocaleDateString(undefined, { weekday: "short", }) + " " + String(date.getUTCDate()).padStart(2, "0") + "." + String(date.getUTCMonth() + 1).padStart(2, "0");
+                        txt = date.toLocaleDateString(undefined, { weekday: "short", }) + " " + String(date.getUTCDate()).padStart(2, "0") + "." + String(date.getUTCMonth() + 1).padStart(2, "0") + "." + String(date.getUTCFullYear());
+                        console.log(txt);
                         if (eve.start.split(" ")[0] == eve.end.split(" ")[0]) {
                             if (column == "start") {
                                 cell.className = "no_right_border";
