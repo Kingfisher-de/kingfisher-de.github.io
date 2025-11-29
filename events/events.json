@@ -1899,6 +1899,12 @@
             "end": "2025-03-03",
             "human_readable_location": "Wülfrath, North Rhine-Westphalia",
             "machine_readable_location": "51.28250,7.03072"
+        },
+        {
+            "start": "2026-03-06",
+            "end": "2026-03-08",
+            "human_readable_location": "Wülfrath, North Rhine-Westphalia",
+            "machine_readable_location": "51.28250,7.03072"
         }
     ],
     "deutscher Tag des offenen Hackspaces": [
