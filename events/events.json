@@ -1342,6 +1342,10 @@
         {
             "start": "2025-11-29",
             "end": "2025-11-30"
+        },
+        {
+            "start": "2026-11-28",
+            "end": "2026-11-29"
         }
     ],
     "TwoDance": [
@@ -1729,6 +1733,10 @@
         {
             "start": "2025-05-31",
             "end": "2025-05-31"
+        },
+        {
+            "start": "2026-05-01",
+            "end": "2026-05-01"
         }
     ],
     "SinFur BBQ-Event": [
@@ -2226,6 +2234,10 @@
             "end": "2025-07-28",
             "human_readable_location": "Tübingen, Baden-Württemberg",
             "machine_readable_location": "48.5162565,9.0633510"
+        },
+        {
+            "start": "2026-05-15",
+            "end": "2026-05-17"
         }
     ],
     "UFurryA": [
@@ -2689,6 +2701,10 @@
             "genre": "Chaos-Event",
             "human_readable_location": "Verwaltungsverband Markdorf, Baden-Württemberg",
             "machine_readable_location": "47.7206084,9.3917257"
+        },
+        {
+            "start": "2025-12-20",
+            "end": "2025-12-20"
         }
     ],
     "Pawsome": [
