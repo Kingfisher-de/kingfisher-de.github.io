@@ -2820,6 +2820,33 @@
             "end": "2026-06-14"
         }
     ],
+    "PuppyPark": [
+        {
+            "genre": "Misc.",
+            "frequency": "4 times per year",
+            "input_location": "Mannheim",
+            "date": "2026-02-14",
+            "human_readable_location": "Mannheim, Baden-Württemberg",
+            "machine_readable_location": "49.4892913,8.4673098",
+            "start": "2026-02-14",
+            "end": "2026-02-14"
+        },
+        {
+            "date": "2026-05-09",
+            "start": "2026-05-09",
+            "end": "2026-05-09"
+        },
+        {
+            "date": "2026-08-08",
+            "start": "2026-08-08",
+            "end": "2026-08-08"
+        },
+        {
+            "date": "2026-12-12",
+            "start": "2026-12-12",
+            "end": "2026-12-12"
+        }
+    ],
     "Devopsdays Zürich": [
         {
             "genre": "IT-Event",
