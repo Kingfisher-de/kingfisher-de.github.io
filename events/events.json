@@ -370,6 +370,10 @@
         {
             "start": "2025-04-25",
             "end": "2025-04-28"
+        },
+        {
+            "start": "2026-04-24",
+            "end": "2026-04-27"
         }
     ],
     "Schwarzwaldcon": [
@@ -726,6 +730,11 @@
             "link": "https://s-s-f.de/events/camp-iii",
             "start": "2025-07-10",
             "end": "2025-07-13"
+        },
+        {
+            "link": "https://s-s-f.de/events/camp-iiii",
+            "start": "2026-07-16",
+            "end": "2026-07-19"
         }
     ],
     "BornHack": [
@@ -1146,6 +1155,10 @@
         {
             "start": "2025-12-06",
             "end": "2025-12-06"
+        },
+        {
+            "start": "2026-03-07",
+            "end": "2026-03-07"
         }
     ],
     "Suitwalk Rheinfelden": [
@@ -1745,6 +1758,10 @@
         {
             "start": "2026-05-01",
             "end": "2026-05-01"
+        },
+        {
+            "start": "2026-05-02",
+            "end": "2026-05-02"
         }
     ],
     "SinFur BBQ-Event": [
@@ -1761,6 +1778,10 @@
         {
             "start": "2025-05-30",
             "end": "2025-05-30"
+        },
+        {
+            "start": "2026-05-01",
+            "end": "2026-05-01"
         }
     ],
     "Furmeet Odenwaldhütte": [
@@ -1923,14 +1944,6 @@
             "machine_readable_location": "51.28250,7.03072"
         }
     ],
-    "deutscher Tag des offenen Hackspaces": [
-        {
-            "genre": "Chaos-Event",
-            "frequency": "Yearly",
-            "start": "2024-03-02",
-            "end": "2024-03-03"
-        }
-    ],
     "Neu-Eröffnung bytewerk": [
         {
             "link": "https://www.bytewerk.org/",
@@ -1940,15 +1953,6 @@
             "end": "2024-03-10",
             "human_readable_location": "Ingolstadt, Bavaria",
             "machine_readable_location": "48.76679,11.42594"
-        }
-    ],
-    "Internationaler Tag des offenen Hackspaces": [
-        {
-            "link": "https://wiki.hackerspaces.org/Open_Hackspace_Day_2024",
-            "genre": "Chaos-Event",
-            "frequency": "Yearly",
-            "start": "2024-03-30",
-            "end": "2024-03-31"
         }
     ],
     "23 Jahre Chaosdorf": [
@@ -2483,8 +2487,18 @@
             "start": "2025-03-29",
             "end": "2025-03-30",
             "human_readable_location": "In teilnehmenden Spaces",
-            "frequency": "Yearly",
+            "frequency": "Irregular",
             "genre": "Chaos-Event"
+        },
+        {
+            "link": "https://wiki.hackerspaces.org/Open_Hackspace_Day_2024",
+            "start": "2024-03-30",
+            "end": "2024-03-31"
+        },
+        {
+            "link": "",
+            "start": "2024-03-02",
+            "end": "2024-03-03"
         }
     ],
     "Schwarzwald-Baar-Heuberg Meet": [
@@ -2500,13 +2514,17 @@
     ],
     "WICMP": [
         {
-            "link": "https://w.icmp.camp/10/",
+            "link": "https://w.icmp.camp/",
             "start": "2025-02-28",
             "end": "2025-03-03",
             "human_readable_location": "Erlangen, Bavaria",
             "machine_readable_location": "49.60005,11.00279",
             "frequency": "Yearly",
             "genre": "Chaos-Event"
+        },
+        {
+            "start": "2026-02-26",
+            "end": "2026-03-01"
         }
     ],
     "Konferenz der Informatikfachschaften": [
@@ -2822,6 +2840,7 @@
     ],
     "PuppyPark": [
         {
+            "link": "https://puppypark.de/",
             "genre": "Misc.",
             "frequency": "4 times per year",
             "input_location": "Mannheim",
@@ -2864,6 +2883,17 @@
         {
             "start": "2026-05-06",
             "end": "2026-05-07"
+        }
+    ],
+    "Hacking New Year": [
+        {
+            "link": "https://hny.indyfac.ch/",
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "start": "2026-02-21",
+            "end": "2026-02-23",
+            "human_readable_location": "Ticino, Switzerland",
+            "machine_readable_location": "46.01214,8.960704"
         }
     ]
 }
