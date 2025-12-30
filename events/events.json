@@ -1053,6 +1053,11 @@
         {
             "start": "2025-05-24",
             "end": "2025-05-24"
+        },
+        {
+            "date": "2026-01-17",
+            "start": "2026-01-17",
+            "end": "2026-01-17"
         }
     ],
     "Heilbronner Suitwalk": [
@@ -2883,6 +2888,19 @@
         {
             "start": "2026-05-06",
             "end": "2026-05-07"
+        }
+    ],
+    "Furry Winter Event Zürich": [
+        {
+            "genre": "Misc.",
+            "frequency": "Irregular",
+            "input_location": "Zürich",
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLScapl2U1RvYNr1xbMHLc4XBX3RwFRuzyc8EANkMzP1oISoQUg/viewform?pli=1",
+            "date": "2026-01-31",
+            "human_readable_location": "Zürich, Zürich",
+            "machine_readable_location": "47.3744489,8.5410422",
+            "start": "2026-01-31",
+            "end": "2026-01-31"
         }
     ],
     "Hacking New Year": [
