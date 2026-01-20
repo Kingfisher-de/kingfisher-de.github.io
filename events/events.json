@@ -463,6 +463,13 @@
             "end": "2025-06-23",
             "human_readable_location": "Karlsruhe, Baden-Württemberg",
             "machine_readable_location": "49.00113,8.38402"
+        },
+        {
+            "link": "https://entropia.de/GPN24",
+            "start": "2026-06-04",
+            "end": "2026-06-08",
+            "human_readable_location": "Karlsruhe, Baden-Württemberg",
+            "machine_readable_location": "49.00113,8.38402"
         }
     ],
     "IGER(ia)": [
@@ -492,6 +499,10 @@
         {
             "start": "2025-06-07",
             "end": "2025-06-09"
+        },
+        {
+            "start": "2026-06-06",
+            "end": "2026-06-08"
         }
     ],
     "VVoid Camp": [
@@ -644,6 +655,13 @@
             "end": "2025-06-02",
             "human_readable_location": "Biel/Bienne, Bern/Berne",
             "machine_readable_location": "47.1442554,7.2499690"
+        },
+        {
+            "link": "https://cosin.ch",
+            "start": "2026-06-12",
+            "end": "2026-06-15",
+            "human_readable_location": "Biel, Switzerland",
+            "machine_readable_location": "47.14429,7.24994"
         }
     ],
     "Lakesidefurs": [
@@ -713,6 +731,12 @@
         {
             "start": "2025-04-12",
             "end": "2025-04-12"
+        },
+        {
+            "link": "https://s-s-f.de/events/sudstaaten-furdance-vol-9",
+            "date": "2026-04-25",
+            "start": "2026-04-25",
+            "end": "2026-04-25"
         }
     ],
     "Südstaaten Furs C.A.M.P": [
@@ -1311,6 +1335,10 @@
         {
             "start": "2025-11-29",
             "end": "2025-11-29"
+        },
+        {
+            "start": "2026-03-14",
+            "end": "2026-03-14"
         }
     ],
     "Sachsen Furdance": [
@@ -1637,6 +1665,10 @@
         {
             "start": "2025-06-26",
             "end": "2025-06-28"
+        },
+        {
+            "start": "2026-06-25",
+            "end": "2026-06-27"
         }
     ],
     "Akademy": [
@@ -2584,6 +2616,13 @@
             "end": "2025-06-02",
             "genre": "Chaos-Event",
             "frequency": "Yearly",
+            "human_readable_location": "München, Bayern",
+            "machine_readable_location": "48.1536330,11.5607605"
+        },
+        {
+            "link": "https://wiki.muc.ccc.de/asm:26:start",
+            "start": "2026-05-22",
+            "end": "2026-05-26",
             "human_readable_location": "München, Bayern",
             "machine_readable_location": "48.1536330,11.5607605"
         }
