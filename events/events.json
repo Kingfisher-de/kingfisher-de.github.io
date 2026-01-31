@@ -1007,6 +1007,11 @@
             "link": "",
             "start": "2025-12-27",
             "end": "2025-12-31"
+        },
+        {
+            "link": "",
+            "start": "2026-12-27",
+            "end": "2026-12-31"
         }
     ],
     "Tübinger Suitwalk": [
@@ -2967,6 +2972,17 @@
             "end": "2026-02-23",
             "human_readable_location": "Ticino, Switzerland",
             "machine_readable_location": "46.01214,8.960704"
+        }
+    ],
+    "Quellc0d3": [
+        {
+            "link": "https://quellcode.0x90.space",
+            "frequency": "Yearly",
+            "genre": "Chaos-Event",
+            "start": "2026-09-25",
+            "end": "2026-09-28",
+            "human_readable_location": "Nürnberg, Bavaria",
+            "machine_readable_location": "49.45615,11.03069"
         }
     ]
 }
