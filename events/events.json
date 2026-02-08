@@ -3092,7 +3092,7 @@
             "link": "https://robocon.io",
             "frequency": "Yearly",
             "genre": "IT-Event",
-            "machine_readable_location": "60.170593;24.936026",
+            "machine_readable_location": "60.170593,24.936026",
             "human_readable_location": "Bio Rex, Helsinki, Finland",
             "start": "2026-02-10",
             "end": "2026-02-13"
