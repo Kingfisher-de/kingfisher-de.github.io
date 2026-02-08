@@ -79,16 +79,33 @@
         return date.getUTCFullYear() + String(date.getUTCMonth() + 1).padStart(2, "0") + String(date.getUTCDate()).padStart(2, "0") + "T230000"
     }
 
+    function prevent_ical_injections(str) {
+        // keep this in sync with ICAL_REGEX
+        let injection_detected = !(/^[\s\x21-\x7EäöüńåавВГдинрНоСј]*$/.test(str));
+        console.assert(!injection_detected);
+        if(injection_detected) {
+            return "assertion error: This should have been caught by validate() in crawl_events.py";
+        }
+        else {
+            return str;
+        }
+    }
+
     function event_as_ical(eve) {
-        // todo: input sanitization and escaping
-        return "BEGIN:VEVENT\n" +
-            "SUMMARY:" + eve.name + "\n" +
-            "DTSTART:" + date_ical_format_morning(parsedate(eve.start)) + "\n" +
-            "DTEND:" + date_ical_format_evening(parsedate(eve.end)) + "\n" +
-            "DTSTAMP:" + date_ical_format(now) + "\n" +
-            "LOCATION:" + eve.human_readable_location + "\n" +
-            "GEO:" + eve.machine_readable_location.replace(",", ";") + "\n" +
-            "URL:" + eve.link + "\n" +
+        // https://icalendar.org/iCalendar-RFC-5545/3-1-content-lines.html
+        // VALUE-CHAR    = WSP / %x21-7E / NON-US-ASCII        
+        var ret = "BEGIN:VEVENT\n" +
+            "SUMMARY:" + prevent_ical_injections(eve.name) + "\n" +
+            "DTSTART:" + prevent_ical_injections(date_ical_format_morning(parsedate(eve.start))) + "\n" +
+            "DTEND:" + prevent_ical_injections(date_ical_format_evening(parsedate(eve.end))) + "\n" +
+            "DTSTAMP:" + prevent_ical_injections(date_ical_format(now)) + "\n" +
+            "LOCATION:" + prevent_ical_injections(eve.human_readable_location) + "\n";
+        if(eve.machine_readable_location !== undefined) {
+            ret +=
+            "GEO:" + prevent_ical_injections(eve.machine_readable_location.replace(",", ";")) + "\n";
+        }
+        ret +=
+            "URL:" + prevent_ical_injections(eve.link) + "\n" +
             "END:VEVENT\n\n"
     }
 
@@ -226,6 +243,7 @@
             }
         }
         total += "END:VCALENDAR\n"
+        total = total.replace("\n", "\r\n")
         const download_anchor = document.createElement('a');
         download_anchor.download = "kf_events.ics";
         download_anchor.href = "data:text/octet-stream," + encodeURIComponent(total);

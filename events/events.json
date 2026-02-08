@@ -16,6 +16,13 @@
             "end": "2025-09-14",
             "human_readable_location": "Darmstadt, Hesse",
             "machine_readable_location": "49.87771,8.65501"
+        },
+        {
+            "link": "https://2026.mrmcd.net/",
+            "start": "2026-09-11",
+            "end": "2026-09-14",
+            "human_readable_location": "Darmstadt, Hesse",
+            "machine_readable_location": "49.87771,8.65501"
         }
     ],
     "FSCK": [
@@ -632,6 +639,13 @@
             "end": "2025-07-21",
             "human_readable_location": "Dortmund, North Rhine-Westphalia",
             "machine_readable_location": "51.41905,7.50523"
+        },
+        {
+            "link": "https://hadr.un-hack-bar.de/",
+            "start": "2026-07-26",
+            "end": "2026-07-29",
+            "human_readable_location": "Dortmund, North Rhine-Westphalia",
+            "machine_readable_location": "51.41905,7.50523"
         }
     ],
     "CoSin": [
@@ -714,6 +728,13 @@
             "end": "2025-07-06",
             "human_readable_location": "Gifhorn, Lower Saxony",
             "machine_readable_location": "52.46286,10.60452"
+        },
+        {
+            "link": "https://hackenopenair.de/",
+            "start": "2026-07-21",
+            "end": "2026-07-26",
+            "human_readable_location": "Gifhorn, Lower Saxony",
+            "machine_readable_location": "52.46286,10.60452"
         }
     ],
     "Südstaaten Furdance": [
@@ -778,6 +799,10 @@
             "end": "2025-07-24",
             "human_readable_location": "Gelsted, Denmark",
             "machine_readable_location": "55.38565,9.93894"
+        },
+        {
+            "start": "2026-07-15",
+            "end": "2026-07-22"
         }
     ],
     "Awoostria": [
@@ -838,6 +863,11 @@
             "end": "2025-08-18",
             "human_readable_location": "Sankt Augistin, North Rhine-Westphalia",
             "machine_readable_location": "50.78056,7.18215"
+        },
+        {
+            "link": "https://froscon.org/",
+            "start": "2026-08-15",
+            "end": "2026-08-16"
         }
     ],
     "WAMP": [
@@ -869,6 +899,13 @@
             "dev_comment": "Source for expected_attendees: https://hack-ma-s-castle.github.io/37C3_lightningtalk/#5",
             "start": "2024-08-28",
             "end": "2024-09-01"
+        },
+        {
+            "link": "https://hack-mas.at/",
+            "start": "2026-08-27",
+            "end": "2026-08-31",
+            "human_readable_location": "Lower Austria",
+            "machine_readable_location": "48.42572,15.21708"
         }
     ],
     "Furgether": [
@@ -931,6 +968,10 @@
         {
             "start": "2025-09-19",
             "end": "2025-09-21"
+        },
+        {
+            "start": "2026-09-18",
+            "end": "2026-09-20"
         }
     ],
     "H-Con": [
@@ -1373,6 +1414,10 @@
         {
             "start": "2026-06-20",
             "end": "2026-06-20"
+        },
+        {
+            "start": "2026-06-27",
+            "end": "2026-06-27"
         }
     ],
     "Rheinfurdance": [
@@ -1585,6 +1630,13 @@
         {
             "start": "2025-07-04 16:00",
             "end": "2025-07-06 18:00"
+        },
+        {
+            "link": "https://hackwerk.fun/",
+            "start": "2026-07-03",
+            "end": "2026-07-06",
+            "human_readable_location": "Affalterried, Baden-Württemberg",
+            "machine_readable_location": "48.8547278,10.0904539"
         }
     ],
     "Embedded World": [
@@ -2093,6 +2145,13 @@
             "link": "https://hackover.de",
             "start": "2025-07-04",
             "end": "2025-07-07",
+            "human_readable_location": "Hanover, Lower Saxony",
+            "machine_readable_location": "52.38809,9.71803"
+        },
+        {
+            "link": "https://hackover.de",
+            "start": "2026-07-16",
+            "end": "2026-07-20",
             "human_readable_location": "Hanover, Lower Saxony",
             "machine_readable_location": "52.38809,9.71803"
         }
@@ -2621,6 +2680,10 @@
             "end": "2025-09-08",
             "human_readable_location": "Rügen, Mecklenburg-Western Pomerania",
             "machine_readable_location": "54.42298,13.41613"
+        },
+        {
+            "start": "2026-09-04",
+            "end": "2026-09-06"
         }
     ],
     "Chaos Feminist Convention": [
@@ -2825,6 +2888,10 @@
             "frequency": "Yearly",
             "human_readable_location": "Nürnberg, Bayern",
             "machine_readable_location": "49.4538720,11.0772980"
+        },
+        {
+            "start": "2026-11-17",
+            "end": "2026-11-19"
         }
     ],
     "HügelCon": [
@@ -2987,6 +3054,468 @@
             "end": "2026-09-28",
             "human_readable_location": "Nürnberg, Bavaria",
             "machine_readable_location": "49.45615,11.03069"
+        }
+    ],
+    "spring(); break;": [
+        {
+            "link": "https://wiki.das-labor.org/w/Veranstaltung/springbreak_2026",
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "start": "2026-03-28",
+            "end": "2026-03-29",
+            "human_readable_location": "Bochum, North Rhine-Westphalia",
+            "machine_readable_location": "51.48091,7.20856"
+        }
+    ],
+    "Nix Camp": [
+        {
+            "link": "https://nix.camp",
+            "genre": "Tent-Camp",
+            "frequency": "Yearly",
+            "start": "2025-08-27",
+            "end": "2025-09-03"
+        }
+    ],
+    "DO_BYTE": [
+        {
+            "link": "https://tickets.do-byte.de/",
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "start": "2026-06-19",
+            "end": "2026-06-22",
+            "human_readable_location": "Dortmund, North Rhine-Westphalia",
+            "machine_readable_location": "51.41905,7.50523"
+        }
+    ],
+    "Robocon": [
+        {
+            "link": "https://robocon.io",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "60.170593;24.936026",
+            "human_readable_location": "Bio Rex, Helsinki, Finland",
+            "start": "2026-02-10",
+            "end": "2026-02-13"
+        }
+    ],
+    "AlpOSS": [
+        {
+            "link": "https://alposs.fr/",
+            "genre": "IT-Event",
+            "foss_events_link": "https://foss.events/2026/02-17-alposs.html",
+            "frequency": "Yearly",
+            "machine_readable_location": "45.14920122408163,5.718894045056171",
+            "human_readable_location": "La Rampe, Echirolles, France",
+            "start": "2026-02-17",
+            "end": "2026-02-17"
+        }
+    ],
+    "Python Barcamp Karlsruhe": [
+        {
+            "link": "https://www.pythonbarcamp.de/",
+            "foss_events_link": "https://foss.events/2026/02-21-python-barcamp-karlsruhe.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "49.02639,8.385328",
+            "human_readable_location": "DHBW Karlsruhe, Karlsruhe, Germany",
+            "start": "2026-02-21",
+            "end": "2026-02-22"
+        }
+    ],
+    "SobTec": [
+        {
+            "link": "https://sobtec.cat/",
+            "genre": "IT-Event",
+            "foss_events_link": "https://foss.events/2026/02-28-sobtec.html",
+            "frequency": "Yearly",
+            "machine_readable_location": "41.373036389935336,2.136699010332609",
+            "human_readable_location": "Lleialtat Santsenca, Barcelona, Spain",
+            "start": "2026-02-28",
+            "end": "2026-02-28"
+        }
+    ],
+    "Frühjahrsfachgespräche": [
+        {
+            "link": "https://guug.de/veranstaltung/ffg2026",
+            "foss_events_link": "https://foss.events/2026/03-04-fruhjahrsfachgesprache.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "49.4528572,11.0967854",
+            "human_readable_location": "OSM-Link Technische Hochschule Nürnberg Georg Simon Ohm, Nuremberg, Germany",
+            "start": "2026-03-04",
+            "end": "2026-03-06"
+        }
+    ],
+    "Uplink": [
+        {
+            "link": "https://blog.selfnet.de/de/blog/2026-01-19-uplink-26/",
+            "foss_events_link": "https://foss.events/2026/03-06-uplink-2026.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "48.746282,9.104233",
+            "human_readable_location": "Universität Stuttgart, Stuttgart, Germany",
+            "start": "2026-03-06",
+            "end": "2026-03-08"
+        }
+    ],
+    "DANTE": [
+        {
+            "link": "https://www.dante.de/veranstaltungen/dante2026/",
+            "foss_events_link": "https://foss.events/2026/03-11-dante.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "50.583201,8.545915",
+            "human_readable_location": "Firma WIWA Wilhelm Wagner GmbH & Co.KG, Werk 2, Lahnau-Waldgirmes, Germany",
+            "start": "2026-03-11",
+            "end": "2026-03-13"
+        }
+    ],
+    "t3chfest": [
+        {
+            "link": "https://t3chfest.es/2026/en/",
+            "foss_events_link": "https://foss.events/2026/03-12-t3chfest.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "40.3325,-3.76546",
+            "human_readable_location": "Auditorio Universidad Carlos III, Madrid, Spain",
+            "start": "2026-03-12",
+            "end": "2026-03-13"
+        }
+    ],
+    "FOSS Backstage": [
+        {
+            "link": "https://26.foss-backstage.de/",
+            "foss_events_link": "https://foss.events/2026/03-16-foss-backstage.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "52.493793,13.429662",
+            "human_readable_location": "Berlin, Germany",
+            "start": "2026-03-16",
+            "end": "2026-03-17"
+        }
+    ],
+    "German Perl/Raku Workshop": [
+        {
+            "link": "https://act.yapc.eu/gpw2026/",
+            "foss_events_link": "https://foss.events/2026/03-16-german-perl-raku-workshop.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "52.526059,13.339897",
+            "human_readable_location": "Berlin, Germany",
+            "start": "2026-03-16",
+            "end": "2026-03-18"
+        }
+    ],
+    "Open Tech Day": [
+        {
+            "link": "https://opentechday.de/coming-up/",
+            "foss_events_link": "https://foss.events/2026/03-19-open-tech-day.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "49.4488399,11.0748859",
+            "human_readable_location": "Nuremberg, Germany",
+            "start": "2026-03-19",
+            "end": "2026-03-19"
+        }
+    ],
+    "Nodes on a Web": [
+        {
+            "link": "https://www.fedivariety.org/unconference",
+            "foss_events_link": "https://foss.events/2026/03-19-nodes-on-a-web.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "52.37250908423723,4.917561969897097",
+            "human_readable_location": "Amsterdam, Netherlands",
+            "start": "2026-03-19",
+            "end": "2026-03-20"
+        }
+    ],
+    "Installfest": [
+        {
+            "link": "https://installfest.cz/if26/",
+            "foss_events_link": "https://foss.events/2026/03-27-installfest-2026.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "50.076274,14.418829",
+            "human_readable_location": "Prague, Czech Republic",
+            "start": "2026-03-27",
+            "end": "2026-03-29"
+        }
+    ],
+    "Cables of Resistance": [
+        {
+            "link": "https://cableresist.de/",
+            "foss_events_link": "https://foss.events/2026/04-10-cables-of-resistance.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "52.4993694,13.3496349",
+            "human_readable_location": "Berlin, Germany",
+            "start": "2026-04-10",
+            "end": "2026-04-12"
+        }
+    ],
+    "LixCon": [
+        {
+            "link": "https://pretix.dgnum.eu/dgnum/lixcon2026/",
+            "foss_events_link": "https://foss.events/2026/04-17-lixcon.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "48.841880359109275,2.3443667964866455",
+            "human_readable_location": "Paris, France",
+            "start": "2026-04-17",
+            "end": "2026-04-19"
+        }
+    ],
+    "esLibre": [
+        {
+            "link": "https://eslib.re/2026/",
+            "foss_events_link": "https://foss.events/2026/04-17-eslibre.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "42.915725,-8.014105",
+            "human_readable_location": "Melide, Spain",
+            "start": "2026-04-17",
+            "end": "2026-04-18"
+        }
+    ],
+    "PyCon Austria": [
+        {
+            "link": "https://pycon.pyug.at/",
+            "foss_events_link": "https://foss.events/2026/04-19-pycon-austria.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "47.82938655000517,16.53508958366433",
+            "human_readable_location": "Eisenstadt, Austria",
+            "start": "2026-04-19",
+            "end": "2026-04-20"
+        }
+    ],
+    "OCX": [
+        {
+            "link": "https://www.ocxconf.org/ ",
+            "foss_events_link": "https://foss.events/2026/04-21-ocx.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "50.8331413,4.3269749",
+            "human_readable_location": "Brussels, Belgium",
+            "start": "2026-04-21",
+            "end": "2026-04-23"
+        }
+    ],
+    "Libre Graphics Meeting": [
+        {
+            "link": "https://www.libregraphicsmeeting.org/2026/",
+            "foss_events_link": "https://foss.events/2026/04-22-libre-graphics-meeting.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "49.443771,11.069337",
+            "human_readable_location": "Nuremberg, Germany",
+            "start": "2026-04-22",
+            "end": "2026-04-25"
+        }
+    ],
+    "OpenEduDay": [
+        {
+            "link": "https://openeducationday.ch/",
+            "foss_events_link": "https://foss.events/2026/04-25-openeduday.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "48.0832514,14.7863035",
+            "human_readable_location": "Bern, Switzerland",
+            "start": "2026-04-25",
+            "end": "2026-04-25"
+        }
+    ],
+    "OggCamp": [
+        {
+            "link": "https://oggcamp.org/",
+            "foss_events_link": "https://foss.events/2026/04-25-oggcamp.html",
+            "frequency": "Yearly",
+            "genre": "Tent-Camp",
+            "machine_readable_location": "53.473951,-2.235283",
+            "human_readable_location": "Manchester, United Kingdom",
+            "start": "2026-04-25",
+            "end": "2026-04-26"
+        }
+    ],
+    "foss-north": [
+        {
+            "link": "https://foss-north.se/events/2026/",
+            "foss_events_link": "https://foss.events/2026/04-27-foss-north.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "57.689257,11.9737188",
+            "human_readable_location": "Gothenburg, Sweden",
+            "start": "2026-04-27",
+            "end": "2026-04-28"
+        }
+    ],
+    "stackconf": [
+        {
+            "link": "https://stackconf.eu/",
+            "foss_events_link": "https://foss.events/2026/04-28-stackconf.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "48.1872448,11.5443554",
+            "human_readable_location": "Munich, Germany",
+            "start": "2026-04-28",
+            "end": "2026-04-29"
+        }
+    ],
+    "EuroBachoTeX": [
+        {
+            "link": "https://bachotex.gust.org.pl/index_en.html",
+            "foss_events_link": "https://foss.events/2026/04-28-eurobachotex.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "53.2887,19.4764",
+            "human_readable_location": "Brodnica, Poland",
+            "start": "2026-04-28",
+            "end": "2026-05-03"
+        }
+    ],
+    "PyCamp España": [
+        {
+            "link": "https://pycamp.es/",
+            "genre": "Tent-Camp",
+            "foss_events_link": "https://foss.events/2026/04-30-pycamp-espana.html",
+            "frequency": "Yearly",
+            "machine_readable_location": "37.701797208622,-6.006314193604998",
+            "human_readable_location": "Sevilla, Spain",
+            "start": "2026-04-30",
+            "end": "2026-05-03"
+        }
+    ],
+    "Wikimedia Hackathon": [
+        {
+            "link": "https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2026",
+            "foss_events_link": "https://foss.events/2026/05-01-wikimedia-hackathon.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "45.46431,9.18921",
+            "human_readable_location": "Milan, Italy",
+            "start": "2026-05-01",
+            "end": "2026-05-03"
+        }
+    ],
+    "MiniDebConf Hamburg": [
+        {
+            "link": "https://hamburg2026.mini.debconf.org/",
+            "foss_events_link": "https://foss.events/2026/05-04-minidebconf-hamburg-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "53.558389507263456,9.943671971659821",
+            "human_readable_location": "Dock europe, Hamburg, Germany",
+            "start": "2026-05-04",
+            "end": "2026-05-11"
+        }
+    ],
+    "Matrix Community Summit": [
+        {
+            "link": "https://matrix-community.events/",
+            "foss_events_link": "https://foss.events/2026/05-22-matrix-community-summit.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "52.5129735,13.4201313",
+            "human_readable_location": "c-base, Berlin, Germany",
+            "start": "2026-05-22",
+            "end": "2026-05-25"
+        }
+    ],
+    "Embedded Recipes": [
+        {
+            "link": "https://embedded-recipes.org/2026/",
+            "foss_events_link": "https://foss.events/2026/05-27-embedded-recipes.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "43.7009358,7.2683912",
+            "human_readable_location": "Nice, France",
+            "start": "2026-05-27",
+            "end": "2026-05-28"
+        }
+    ],
+    "JdLL": [
+        {
+            "link": "https://jdll.org",
+            "foss_events_link": "https://foss.events/2026/05-30-jdll.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "45.732576,4.83186",
+            "human_readable_location": "ENS de Lyon, Lyon, France",
+            "start": "2026-05-30",
+            "end": "2026-05-31"
+        }
+    ],
+    "T-DOSE": [
+        {
+            "link": "https://t-dose.org/2026/",
+            "foss_events_link": "https://foss.events/2026/06-06-t-dose.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "51.4224083,5.5633615",
+            "human_readable_location": "De Weeffabriek, Geldrop, Netherlands",
+            "start": "2026-06-06",
+            "end": "2026-06-07"
+        }
+    ],
+    "Berlin Buzzwords": [
+        {
+            "link": "https://2026.berlinbuzzwords.de/",
+            "foss_events_link": "https://foss.events/2026/06-07-berlin-buzzwords.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "52.539334,13.413958",
+            "human_readable_location": "Kulturbrauerei Berlin, Berlin, Germany",
+            "start": "2026-06-07",
+            "end": "2026-06-09"
+        }
+    ],
+    "DevConf": [
+        {
+            "link": "https://www.devconf.info/cz/",
+            "foss_events_link": "https://foss.events/2026/06-18-devconf.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "49.226391,16.596254",
+            "human_readable_location": "FIT VUT, Brno, Czech Republic",
+            "start": "2026-06-18",
+            "end": "2026-06-20"
+        }
+    ],
+    "ConTeXt meeting": [
+        {
+            "link": "https://meeting.contextgarden.net/",
+            "foss_events_link": "https://foss.events/2026/08-24-context-meeting.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "50.378698,8.572666",
+            "human_readable_location": "Maibacher Schweiz, Maibach, Germany",
+            "start": "2026-08-24",
+            "end": "2026-08-29"
+        }
+    ],
+    "RomHack Camp": [
+        {
+            "link": "https://romhack.io/romhack-camp-2026/",
+            "foss_events_link": "https://foss.events/2026/09-25-romhack-camp.html",
+            "frequency": "Yearly",
+            "genre": "Tent-Camp",
+            "machine_readable_location": "41.95619898669258,12.48220366484448",
+            "human_readable_location": "Flaminio Village, Roma, Italy",
+            "start": "2026-09-25",
+            "end": "2026-09-25"
+        }
+    ],
+    "SFK": [
+        {
+            "link": "https://sfk.flossk.org/",
+            "foss_events_link": "https://foss.events/2026/10-01-sfk.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "42.6484682,21.1669558",
+            "human_readable_location": "FIEK - Faculty of Electrical and Computer Engineering, Prishtina, Kosova",
+            "start": "2026-10-01",
+            "end": "2026-10-03"
         }
     ]
 }
