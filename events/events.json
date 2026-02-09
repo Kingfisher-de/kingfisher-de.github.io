@@ -3093,7 +3093,7 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "60.170593,24.936026",
-            "human_readable_location": "Bio Rex, Helsinki, Finland",
+            "human_readable_location": "Helsinki, Finland",
             "start": "2026-02-10",
             "end": "2026-02-13"
         }
@@ -3105,7 +3105,7 @@
             "foss_events_link": "https://foss.events/2026/02-17-alposs.html",
             "frequency": "Yearly",
             "machine_readable_location": "45.14920122408163,5.718894045056171",
-            "human_readable_location": "La Rampe, Echirolles, France",
+            "human_readable_location": "Echirolles, France",
             "start": "2026-02-17",
             "end": "2026-02-17"
         }
@@ -3117,7 +3117,7 @@
             "genre": "IT-Event",
             "frequency": "Yearly",
             "machine_readable_location": "49.02639,8.385328",
-            "human_readable_location": "DHBW Karlsruhe, Karlsruhe, Germany",
+            "human_readable_location": "Karlsruhe, Germany",
             "start": "2026-02-21",
             "end": "2026-02-22"
         }
@@ -3129,7 +3129,7 @@
             "foss_events_link": "https://foss.events/2026/02-28-sobtec.html",
             "frequency": "Yearly",
             "machine_readable_location": "41.373036389935336,2.136699010332609",
-            "human_readable_location": "Lleialtat Santsenca, Barcelona, Spain",
+            "human_readable_location": "Barcelona, Spain",
             "start": "2026-02-28",
             "end": "2026-02-28"
         }
@@ -3141,7 +3141,7 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "49.4528572,11.0967854",
-            "human_readable_location": "OSM-Link Technische Hochschule Nürnberg Georg Simon Ohm, Nuremberg, Germany",
+            "human_readable_location": "Nuremberg, Germany",
             "start": "2026-03-04",
             "end": "2026-03-06"
         }
@@ -3153,7 +3153,7 @@
             "genre": "IT-Event",
             "frequency": "Yearly",
             "machine_readable_location": "48.746282,9.104233",
-            "human_readable_location": "Universität Stuttgart, Stuttgart, Germany",
+            "human_readable_location": "Vaihingen, Germany",
             "start": "2026-03-06",
             "end": "2026-03-08"
         }
@@ -3165,7 +3165,7 @@
             "genre": "IT-Event",
             "frequency": "Yearly",
             "machine_readable_location": "50.583201,8.545915",
-            "human_readable_location": "Firma WIWA Wilhelm Wagner GmbH & Co.KG, Werk 2, Lahnau-Waldgirmes, Germany",
+            "human_readable_location": "Lahnau-Waldgirmes, Germany",
             "start": "2026-03-11",
             "end": "2026-03-13"
         }
@@ -3177,7 +3177,7 @@
             "genre": "IT-Event",
             "frequency": "Yearly",
             "machine_readable_location": "40.3325,-3.76546",
-            "human_readable_location": "Auditorio Universidad Carlos III, Madrid, Spain",
+            "human_readable_location": "Madrid, Spain",
             "start": "2026-03-12",
             "end": "2026-03-13"
         }
@@ -3405,7 +3405,7 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "53.558389507263456,9.943671971659821",
-            "human_readable_location": "Dock europe, Hamburg, Germany",
+            "human_readable_location": "Hamburg, Germany",
             "start": "2026-05-04",
             "end": "2026-05-11"
         }
@@ -3417,7 +3417,7 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "52.5129735,13.4201313",
-            "human_readable_location": "c-base, Berlin, Germany",
+            "human_readable_location": "Berlin, Germany",
             "start": "2026-05-22",
             "end": "2026-05-25"
         }
@@ -3441,7 +3441,7 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "45.732576,4.83186",
-            "human_readable_location": "ENS de Lyon, Lyon, France",
+            "human_readable_location": "yon, France",
             "start": "2026-05-30",
             "end": "2026-05-31"
         }
@@ -3453,7 +3453,7 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "51.4224083,5.5633615",
-            "human_readable_location": "De Weeffabriek, Geldrop, Netherlands",
+            "human_readable_location": "Geldrop, Netherlands",
             "start": "2026-06-06",
             "end": "2026-06-07"
         }
@@ -3465,7 +3465,7 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "52.539334,13.413958",
-            "human_readable_location": "Kulturbrauerei Berlin, Berlin, Germany",
+            "human_readable_location": "Berlin, Germany",
             "start": "2026-06-07",
             "end": "2026-06-09"
         }
@@ -3477,7 +3477,7 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "49.226391,16.596254",
-            "human_readable_location": "FIT VUT, Brno, Czech Republic",
+            "human_readable_location": "Brno, Czech Republic",
             "start": "2026-06-18",
             "end": "2026-06-20"
         }
@@ -3489,7 +3489,7 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "50.378698,8.572666",
-            "human_readable_location": "Maibacher Schweiz, Maibach, Germany",
+            "human_readable_location": "Maibach, Germany",
             "start": "2026-08-24",
             "end": "2026-08-29"
         }
@@ -3501,9 +3501,20 @@
             "frequency": "Yearly",
             "genre": "Tent-Camp",
             "machine_readable_location": "41.95619898669258,12.48220366484448",
-            "human_readable_location": "Flaminio Village, Roma, Italy",
+            "human_readable_location": "Rome, Italy",
             "start": "2026-09-25",
             "end": "2026-09-25"
+        }
+    ],
+    "I Love Free Software Day": [
+        {
+            "link": "https://fsfe.org/activities/ilovefs/",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "human_readable_location": "Multiple Places",
+            "date": "2026-02-14",
+            "start": "2026-02-14",
+            "end": "2026-02-14"
         }
     ],
     "SFK": [
@@ -3513,9 +3524,57 @@
             "frequency": "Yearly",
             "genre": "IT-Event",
             "machine_readable_location": "42.6484682,21.1669558",
-            "human_readable_location": "FIEK - Faculty of Electrical and Computer Engineering, Prishtina, Kosova",
+            "human_readable_location": "Prishtina, Kosova",
             "start": "2026-10-01",
             "end": "2026-10-03"
+        }
+    ],
+    "OpenChain and Friends": [
+        {
+            "link": "https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026",
+            "foss_events_link": "https://foss.events/2026/03-24-openchain-and-friends-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "48.814044,9.162238",
+            "human_readable_location": "Stuttgart, Germany",
+            "start": "2026-03-24",
+            "end": "2026-03-26"
+        }
+    ],
+    "Software Freedom Kosova": [
+        {
+            "link": "https://sfk.flossk.org/",
+            "foss_events_link": "https://foss.events/2026/10-01-software-freedom-kosova.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "42.6484682,21.1669558",
+            "human_readable_location": "Prishtina, Kosova",
+            "start": "2026-10-01",
+            "end": "2026-10-03"
+        }
+    ],
+    "Open Transport Community Conference": [
+        {
+            "link": "https://open-transport.org/",
+            "foss_events_link": "https://foss.events/2026/10-06-open-transport-community-conference-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "46.967793,7.463183",
+            "human_readable_location": "Bern, Switzerland",
+            "start": "2026-10-06",
+            "end": "2026-10-09"
+        }
+    ],
+    "eth0": [
+        {
+            "link": "https://wiki.eth0.nl/index.php/Eth0:2026_Autumn",
+            "foss_events_link": "https://foss.events/2026/11-06-eth0.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "51.380595,5.692554",
+            "human_readable_location": "Someren, Netherlands",
+            "start": "2026-11-06",
+            "end": "2026-11-08"
         }
     ]
 }
