@@ -3104,6 +3104,10 @@
             "human_readable_location": "Helsinki, Finland",
             "start": "2026-02-10",
             "end": "2026-02-13"
+        },
+        {
+            "start": "2026-03-04",
+            "end": "2026-03-05"
         }
     ],
     "AlpOSS": [
@@ -3583,6 +3587,30 @@
             "human_readable_location": "Someren, Netherlands",
             "start": "2026-11-06",
             "end": "2026-11-08"
+        }
+    ],
+    "OpenStreetMap Hackweekend Berlin": [
+        {
+            "link": "https://wiki.openstreetmap.org/wiki/Berlin_Hack_Weekend_April_2026",
+            "foss_events_link": "https://foss.events/2026/04-11-openstreetmap-hackweekend-berlin.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "52.498412,13.381049",
+            "human_readable_location": "Berlin, Germany",
+            "start": "2026-04-11",
+            "end": "2026-04-12"
+        }
+    ],
+    "ODS": [
+        {
+            "link": "https://events.opensuse.org/conferences/ODS26",
+            "foss_events_link": "https://foss.events/2026/04-23-ods2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "50.0874654,14.4212535",
+            "human_readable_location": "Prague, Czech Republic",
+            "start": "2026-04-23",
+            "end": "2026-04-23"
         }
     ]
 }
