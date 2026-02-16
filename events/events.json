@@ -3612,5 +3612,29 @@
             "start": "2026-04-23",
             "end": "2026-04-23"
         }
+    ],
+    "Hack the Earth": [
+        {
+            "link": "https://hlt.calafou.org/en",
+            "foss_events_link": "https://foss.events/2026/04-02-hack-the-earth.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "41.511317,1.7022049",
+            "human_readable_location": "Vallbona d'Anoia, Spain",
+            "start": "2026-04-02",
+            "end": "2026-04-05"
+        }
+    ],
+    "DWeb Camp": [
+        {
+            "link": "https://dwebcamp.org/berlin-2026/",
+            "foss_events_link": "https://foss.events/2026/07-08-dweb-camp.html",
+            "genre": "Tent-Camp",
+            "frequency": "Yearly",
+            "machine_readable_location": "52.1184615,12.4071764",
+            "human_readable_location": "Wiesenburg, Germany",
+            "start": "2026-07-08",
+            "end": "2026-07-12"
+        }
     ]
 }
