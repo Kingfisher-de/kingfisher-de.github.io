@@ -646,6 +646,13 @@
             "end": "2026-07-29",
             "human_readable_location": "Dortmund, North Rhine-Westphalia",
             "machine_readable_location": "51.41905,7.50523"
+        },
+        {
+            "link": "https://hadr.un-hack-bar.de/",
+            "start": "2026-06-26",
+            "end": "2026-06-29",
+            "human_readable_location": "Dortmund, North Rhine-Westphalia",
+            "machine_readable_location": "51.41905,7.50523"
         }
     ],
     "CoSin": [
@@ -1490,6 +1497,10 @@
         {
             "start": "2026-03-07",
             "end": "2026-03-07"
+        },
+        {
+            "start": "2026-03-06",
+            "end": "2026-03-06"
         }
     ],
     "Rheinfurs Suitwalk": [
@@ -2118,6 +2129,10 @@
         {
             "start": "2025-06-26",
             "end": "2025-06-27"
+        },
+        {
+            "start": "2026-06-25",
+            "end": "2026-06-26"
         }
     ],
     "fedicamp": [
@@ -2454,6 +2469,10 @@
         {
             "start": "2025-10-24",
             "end": "2025-10-26"
+        },
+        {
+            "start": "2025-10-30",
+            "end": "2025-11-01"
         }
     ],
     "Esslinger Suitwalk": [
@@ -2964,11 +2983,18 @@
     ],
     "LugCamp": [
         {
-            "link": "https: //www.lug-camp-2025.de/",
+            "link": "https://www.lugcamp.de/",
             "genre": "Tent-Camp",
             "frequency": "Yearly",
             "start": "2025-05-29",
             "end": "2025-06-01"
+        },
+        {
+            "input_location": "Wuppertal",
+            "start": "2026-05-14",
+            "end": "2026-05-17",
+            "human_readable_location": "Wuppertal, Nordrhein-Westfalen",
+            "machine_readable_location": "51.2640180,7.1780374"
         }
     ],
     "Furvaria": [
@@ -3635,6 +3661,30 @@
             "human_readable_location": "Wiesenburg, Germany",
             "start": "2026-07-08",
             "end": "2026-07-12"
+        }
+    ],
+    "Scotiacon": [
+        {
+            "link": "https://scotiacon.org.uk",
+            "genre": "Furry-Convention",
+            "frequency": "Yearly",
+            "input_location": "Glasgow, Scotland",
+            "start": "2027-02-05",
+            "end": "2027-02-08",
+            "human_readable_location": "Glasgow, Alba / Scotland",
+            "machine_readable_location": "55.8611550,-4.2501687"
+        }
+    ],
+    "H5P Community Event": [
+        {
+            "link": "https://h5p.org/h5p-hamburg-community-event",
+            "foss_events_link": "https://foss.events/2026/03-03-h5p-community-event.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "53.5503410,10.0006540",
+            "human_readable_location": "Hamburg, Germany",
+            "start": "2026-03-03",
+            "end": "2026-03-03"
         }
     ]
 }
