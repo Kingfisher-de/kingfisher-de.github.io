@@ -3675,6 +3675,18 @@
             "machine_readable_location": "55.8611550,-4.2501687"
         }
     ],
+    "SpringFurCon": [
+        {
+            "link": "https://springfurcon.de/registration/",
+            "genre": "Furry-Convention",
+            "frequency": "Yearly",
+            "input_location": "Schweinfurt, Bavaria",
+            "start": "2026-04-08",
+            "end": "2026-04-12",
+            "human_readable_location": "Schweinfurt, Bayern",
+            "machine_readable_location": "50.0499318,10.2335087"
+        }
+    ],
     "H5P Community Event": [
         {
             "link": "https://h5p.org/h5p-hamburg-community-event",
@@ -3685,6 +3697,42 @@
             "human_readable_location": "Hamburg, Germany",
             "start": "2026-03-03",
             "end": "2026-03-03"
+        }
+    ],
+    "Compote Unconference": [
+        {
+            "link": "https://dogodki.kompot.si/events/02c2de02-871a-4946-bc7b-e3fac4b4434e",
+            "foss_events_link": "https://foss.events/2026/04-11-compote-unconference.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "46.067007200000006,14.52208513573195",
+            "human_readable_location": "Ljubljana, Slovenia",
+            "start": "2026-04-11",
+            "end": "2026-04-11"
+        }
+    ],
+    "MiniDebConf Winterthur": [
+        {
+            "link": "https://ch2026.mini.debconf.org/",
+            "foss_events_link": "https://foss.events/2026/08-29-minidebconf-winterthur-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "47.506923,8.765663",
+            "human_readable_location": "Winterthur, Switzerland",
+            "start": "2026-08-29",
+            "end": "2026-08-30"
+        }
+    ],
+    "preCICE": [
+        {
+            "link": "https://precice.org/precice-workshop-2027.html",
+            "foss_events_link": "https://foss.events/2027/03-01-precice-2027.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "51.9994572,4.3627245",
+            "human_readable_location": "Delft, Netherlands",
+            "start": "2027-03-01",
+            "end": "2027-03-05"
         }
     ]
 }
