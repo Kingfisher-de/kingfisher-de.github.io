@@ -1249,6 +1249,10 @@
         {
             "start": "2026-03-07",
             "end": "2026-03-07"
+        },
+        {
+            "start": "2026-04-18",
+            "end": "2026-04-18"
         }
     ],
     "Suitwalk Rheinfelden": [
@@ -1326,6 +1330,10 @@
         {
             "start": "2025-11-22",
             "end": "2025-11-22"
+        },
+        {
+            "start": "2026-03-21",
+            "end": "2026-03-21"
         }
     ],
     "Fursuitwalk Bad Dürkheim": [
@@ -2428,6 +2436,10 @@
         {
             "start": "2025-09-19",
             "end": "2025-09-21"
+        },
+        {
+            "start": "2025-09-11",
+            "end": "2025-09-13"
         }
     ],
     "Sachsen Furs Jahreswechsel": [
@@ -3737,6 +3749,30 @@
             "human_readable_location": "Delft, Netherlands",
             "start": "2027-03-01",
             "end": "2027-03-05"
+        }
+    ],
+    "EuroBSDCon": [
+        {
+            "link": "https://2026.eurobsdcon.org/",
+            "foss_events_link": "https://foss.events/2026/09-09-eurobsdcon.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "50.822723,4.395819",
+            "human_readable_location": "Brussels, Belgium",
+            "start": "2026-09-09",
+            "end": "2026-09-13"
+        }
+    ],
+    "All Systems Go!": [
+        {
+            "link": "https://all-systems-go.io/",
+            "foss_events_link": "https://foss.events/2026/09-30-all-systems-go.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "52.5161294,13.4090769",
+            "human_readable_location": "Berlin, Germany",
+            "start": "2026-09-30",
+            "end": "2026-10-01"
         }
     ]
 }
