@@ -1186,6 +1186,19 @@
             "end": "2026-03-07"
         }
     ],
+    "Heilbronner Furry-Stammtisch": {
+        "link": "https://weinbergfurs.de/suitwalks/heilbronn",
+        "genre": "Furry-Stammtisch",
+        "human_readable_location": "Heilbronn, Baden-Württemberg",
+        "machine_readable_location": "49.18695,9.22477",
+        "ticket_price": "Free",
+        "expected_attendees": "20",
+        "date_rule": [
+            "Monthly",
+            "Saturday",
+            "1"
+        ]
+    },
     "Chaostreff Backnang e.V. Mitgliederversammlung": [
         {
             "frequency": "Yearly",
@@ -1198,6 +1211,42 @@
             "end": "2024-10-13"
         }
     ],
+    "Chaostreff Tübingen im KI-Makerspace": {
+        "link": "https://cttue.de/",
+        "genre": "Chaos-Event",
+        "human_readable_location": "Tübingen, Baden-Württemberg",
+        "machine_readable_location": "48.51782,9.06092",
+        "ticket_price": "No Registration Required",
+        "date_rule": [
+            "Monthly",
+            "Sunday",
+            "0"
+        ]
+    },
+    "Chaostreff Tübingen im Fablab": {
+        "link": "https://cttue.de/",
+        "genre": "Chaos-Event",
+        "human_readable_location": "Tübingen, Baden-Württemberg",
+        "machine_readable_location": "48.51561,9.06304",
+        "ticket_price": "No Registration Required",
+        "date_rule": [
+            "Monthly",
+            "Monday",
+            "2"
+        ]
+    },
+    "NoName e.V. Stammtisch": {
+        "link": "https://www.noname-ev.de/",
+        "genre": "Chaos-Event",
+        "human_readable_location": "Heidelberg, Baden-Württemberg",
+        "machine_readable_location": "49.41747,8.67545",
+        "ticket_price": "No Registration Required",
+        "date_rule": [
+            "Monthly",
+            "Thursday",
+            "1"
+        ]
+    },
     "Karlsruher Suitwalk": [
         {
             "link": "https://karlsfurs.de/",
@@ -1511,6 +1560,31 @@
             "end": "2026-03-06"
         }
     ],
+    "Stuttgarter Furry-Stammtisch": {
+        "link": "https://t.me/FurryStammtisch/1",
+        "genre": "Furry-Stammtisch",
+        "human_readable_location": "Stuttgart, Baden-Württemberg",
+        "machine_readable_location": "48.82150,9.20581",
+        "date_rule": [
+            "Monthly",
+            "Saturday",
+            "2"
+        ],
+        "ticket_price": "1 €",
+        "expected_attendees": "25"
+    },
+    "Zig-Space": {
+        "link": "https://gerlingen.digital/index.php?r=space%2Fspace&cguid=ac4a8f3c-d0b6-45dd-9bb9-f03936f131e2",
+        "genre": "Chaos-Event",
+        "human_readable_location": "Gerlingen, Baden-Württemberg",
+        "machine_readable_location": "48.79769,9.06332",
+        "date_rule": [
+            "Monthly",
+            "Friday",
+            "4"
+        ],
+        "ticket_price": "No Registration Required"
+    },
     "Rheinfurs Suitwalk": [
         {
             "link": "https://reg.rheinfurs.de/meetup/5-RheinFurs-Suitwalk-kurpark-wiesbaden",
