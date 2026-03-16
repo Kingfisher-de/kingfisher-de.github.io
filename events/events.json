@@ -2798,6 +2798,13 @@
             "end": "2025-02-09",
             "human_readable_location": "Chemnitz, Saxony",
             "machine_readable_location": "50.830633,12.939556"
+        },
+        {
+            "link": "https://chch.it/Winterchaos",
+            "start": "2026-02-07",
+            "end": "2026-02-08",
+            "human_readable_location": "Chemnitz, Saxony",
+            "machine_readable_location": "50.81353,12.92939"
         }
     ],
     "InselChaos": [
