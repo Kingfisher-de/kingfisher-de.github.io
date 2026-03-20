@@ -3871,5 +3871,40 @@
             "start": "2026-09-30",
             "end": "2026-10-01"
         }
+    ],
+    "Geekend Freies Labor": [
+        {
+            "link": "https://wiki.freieslabor.org/wiki/Geekend26",
+            "start": "2026-03-28",
+            "end": "2026-03-30",
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "human_readable_location": "Hildesheim, Niedersachsen",
+            "machine_readable_location": "52.1687551,9.9780141"
+        }
+    ],
+    "Sesja Linuksowa": [
+        {
+            "link": "https://20.sesja.linuksowa.pl",
+            "foss_events_link": "https://foss.events/2026/04-25-20-sesja-linuksowa.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "51.110158,17.060256",
+            "human_readable_location": "Wrocław, Poland",
+            "start": "2026-04-25",
+            "end": "2026-04-26"
+        }
+    ],
+    "Wissen sichtbar machen mit Wikipedia": [
+        {
+            "link": "https://www.uibk.ac.at/de/public-relations/wikipedia/tagung-wissen-sichtbar-machen-mit-wikipedia-2026/",
+            "foss_events_link": "https://foss.events/2026/05-07-wissen-sichtbar-machen-mit-wikipedia.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "47.2654296,11.3927685",
+            "human_readable_location": "Innsbruck, Austria",
+            "start": "2026-05-07",
+            "end": "2026-05-08"
+        }
     ]
 }
