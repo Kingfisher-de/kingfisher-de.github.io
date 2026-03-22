@@ -3906,5 +3906,17 @@
             "start": "2026-05-07",
             "end": "2026-05-08"
         }
+    ],
+    "Ubuntu Summit": [
+        {
+            "link": "https://ubuntu.com/summit",
+            "foss_events_link": "https://foss.events/2026/11-12-ubuntu-summit-26-10.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "51.5074456,-0.1277653",
+            "human_readable_location": "London, United Kingdom",
+            "start": "2026-11-12",
+            "end": "2026-11-13"
+        }
     ]
 }
