@@ -2315,6 +2315,10 @@
             "end": "2025-09-22",
             "human_readable_location": "Град Нови Сад, Војводина",
             "machine_readable_location": "45.2561432,19.8240021"
+        },
+        {
+            "start": "2026-09-18",
+            "end": "2026-09-20"
         }
     ],
     "BigBrotherAwards": [
@@ -3929,6 +3933,42 @@
             "human_readable_location": "Santa Cruz de Tenerife - Canary Islands, Spain",
             "start": "2026-05-30",
             "end": "2026-05-30"
+        }
+    ],
+    "OpenSearchCon Europe": [
+        {
+            "link": "https://events.linuxfoundation.org/opensearchcon-europe/",
+            "foss_events_link": "https://foss.events/2026/04-16-opensearchcon-europe-2026.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "50.08798,14.4315332",
+            "human_readable_location": "Prague, Czech Republic",
+            "start": "2026-04-16",
+            "end": "2026-04-17"
+        }
+    ],
+    "Linux App Summit": [
+        {
+            "link": "https://linuxappsummit.org/",
+            "foss_events_link": "https://foss.events/2026/05-16-linux-app-summit-las.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "52.506573,13.391602",
+            "human_readable_location": "Berlin, Germany",
+            "start": "2026-05-16",
+            "end": "2026-05-17"
+        }
+    ],
+    "Flock": [
+        {
+            "link": "https://fedoraproject.org/flock/2026/",
+            "foss_events_link": "https://foss.events/2026/06-14-flock-2026.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "50.070953,14.402593",
+            "human_readable_location": "Prague, Czech Republic",
+            "start": "2026-06-14",
+            "end": "2026-06-16"
         }
     ]
 }
