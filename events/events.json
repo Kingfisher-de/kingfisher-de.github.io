@@ -43,6 +43,13 @@
             "end": "2025-05-12",
             "human_readable_location": "Backnang, Baden-Württemberg",
             "machine_readable_location": "48.94887,9.43436"
+        },
+        {
+            "link": "https://events.ctbk.de/",
+            "start": "2026-05-08",
+            "end": "2026-05-11",
+            "human_readable_location": "VVG der Stadt Backnang, Baden-Württemberg",
+            "machine_readable_location": "48.9486615,9.4342080"
         }
     ],
     "Furvester": [
@@ -1093,6 +1100,10 @@
         {
             "start": "2025-10-05",
             "end": "2025-10-05"
+        },
+        {
+            "start": "2026-04-19",
+            "end": "2026-04-19"
         }
     ],
     "Villinger Suitwalk": [
@@ -2417,6 +2428,17 @@
             "end": "2025-10-13",
             "human_readable_location": "Chemnitz, Saxony",
             "machine_readable_location": "50.830633,12.939556"
+        },
+        {
+            "link": "https://interfug.de/",
+            "start": "2026-10-09",
+            "end": "2026-10-12",
+            "human_readable_location": "Chemnitz, Saxony",
+            "machine_readable_location": "50.830633,12.939556"
+        },
+        {
+            "start": "2026-10-10",
+            "end": "2026-10-11"
         }
     ],
     "Ulmer Furs auf dem Ulmer Volksfest": [
@@ -3969,6 +3991,30 @@
             "human_readable_location": "Prague, Czech Republic",
             "start": "2026-06-14",
             "end": "2026-06-16"
+        }
+    ],
+    "Hell Yeah!": [
+        {
+            "link": "https://tickets.alte-hoelle.de/hellyeah/2026/",
+            "foss_events_link": "https://foss.events/2026/05-01-hell-yeah.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "52.1184615,12.4071764",
+            "human_readable_location": "Wiesenburg, Germany",
+            "start": "2026-05-01",
+            "end": "2026-05-03"
+        }
+    ],
+    "Neocypherpunk Summit": [
+        {
+            "link": "https://s26ber.web3privacy.info/",
+            "foss_events_link": "https://foss.events/2026/06-14-neocypherpunk-summit.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "52.4795,13.5005",
+            "human_readable_location": "Berlin, Germany",
+            "start": "2026-06-14",
+            "end": "2026-06-14"
         }
     ]
 }
