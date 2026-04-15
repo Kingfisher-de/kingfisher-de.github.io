@@ -163,6 +163,10 @@
         {
             "start": "2026-03-18",
             "end": "2026-03-22"
+        },
+        {
+            "start": "2027-03-17",
+            "end": "2027-03-21"
         }
     ],
     "Winterkongress": [
@@ -226,6 +230,10 @@
         {
             "start": "2026-03-23",
             "end": "2026-03-26"
+        },
+        {
+            "start": "2027-03-15",
+            "end": "2027-03-18"
         }
     ],
     "FOSSGIS": [
@@ -1195,6 +1203,10 @@
         {
             "start": "2026-03-07",
             "end": "2026-03-07"
+        },
+        {
+            "start": "2026-05-02",
+            "end": "2026-05-02"
         }
     ],
     "Heilbronner Furry-Stammtisch": {
@@ -2381,6 +2393,10 @@
         {
             "start": "2025-07-03",
             "end": "2025-07-06"
+        },
+        {
+            "start": "2026-08-06",
+            "end": "2026-08-09"
         }
     ],
     "Flashback Symposium": [
@@ -4015,6 +4031,42 @@
             "human_readable_location": "Berlin, Germany",
             "start": "2026-06-14",
             "end": "2026-06-14"
+        }
+    ],
+    "MaiSpace": [
+        {
+            "link": "https://cfp.ccc-p.org/maispace-2026/",
+            "foss_events_link": "https://foss.events/2026/05-23-maispace-2026.html",
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "52.389458,13.078548",
+            "human_readable_location": "Potsdam, Germany",
+            "start": "2026-05-23",
+            "end": "2026-05-24"
+        }
+    ],
+    "openSUSE Conference": [
+        {
+            "link": "https://events.opensuse.org/conferences/oSC26",
+            "foss_events_link": "https://foss.events/2026/06-25-opensuse-conference.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "49.430142,11.094494",
+            "human_readable_location": "Nuremberg, Germany",
+            "start": "2026-06-25",
+            "end": "2026-06-27"
+        }
+    ],
+    "OpenSouthCode": [
+        {
+            "link": "https://www.opensouthcode.org",
+            "foss_events_link": "https://foss.events/2026/06-26-opensouthcode.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "machine_readable_location": "36.7213028,-4.4216366",
+            "human_readable_location": "Málaga, Spain",
+            "start": "2026-06-26",
+            "end": "2026-06-27"
         }
     ]
 }
