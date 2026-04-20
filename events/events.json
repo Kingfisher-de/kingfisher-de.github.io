@@ -1325,6 +1325,10 @@
         {
             "start": "2026-04-18",
             "end": "2026-04-18"
+        },
+        {
+            "start": "2026-05-30",
+            "end": "2026-05-30"
         }
     ],
     "Suitwalk Rheinfelden": [
@@ -4067,6 +4071,18 @@
             "human_readable_location": "Málaga, Spain",
             "start": "2026-06-26",
             "end": "2026-06-27"
+        }
+    ],
+    "Spätzle Coding Night": [
+        {
+            "link": "https://eintopf.info/event/5bb974dc-b2ec-4dfc-987a-cafdfdef6879",
+            "foss_events_link": "https://foss.events/2026/04-24-spatzle-coding-night-2.html",
+            "frequency": "Yearly",
+            "genre": "Chaos-Event",
+            "machine_readable_location": "48.7784485,9.1800132",
+            "human_readable_location": "Stuttgart, Germany",
+            "start": "2026-04-24",
+            "end": "2026-04-25"
         }
     ]
 }
