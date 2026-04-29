@@ -2141,6 +2141,10 @@
             "start": "2025-02-08",
             "end": "2025-02-09",
             "expected_attendees": "20000"
+        },
+        {
+            "start": "2026-07-25",
+            "end": "2026-07-26"
         }
     ],
     "Hack im Pott": [
@@ -4084,5 +4088,43 @@
             "start": "2026-04-24",
             "end": "2026-04-25"
         }
-    ]
+    ],
+    "Linux User Group Stuttgart - LiHAS": {
+        "link": "https://www.lug-s.org/",
+        "genre": "IT-Event",
+        "input_location": "Hessenwiesenstrasse 10, Stuttgart",
+        "ticket_price": "Free",
+        "date_rule": [
+            "Monthly",
+            "Tuesday",
+            "2"
+        ],
+        "human_readable_location": "Stuttgart, Baden-Württemberg",
+        "machine_readable_location": "48.7153036,9.1068642"
+    },
+    "Maker Faire Schweiz": [
+        {
+            "link": "https://makerfaire.ch/",
+            "genre": "Misc.",
+            "frequency": "Yearly",
+            "input_location": "Derendingen, Solothurn, Switzerland",
+            "start": "2026-06-20",
+            "end": "2026-06-21",
+            "human_readable_location": "Derendingen, Solothurn",
+            "machine_readable_location": "47.1944967,7.5865899"
+        }
+    ],
+    "Linux User Group Stuttgart - Shackspace": {
+        "link": "https://www.lug-s.org/",
+        "genre": "IT-Event",
+        "input_location": "shackspace",
+        "ticket_price": "Free",
+        "date_rule": [
+            "Monthly",
+            "Saturday",
+            "-1"
+        ],
+        "human_readable_location": "Stuttgart, Baden-Württemberg",
+        "machine_readable_location": "48.7745260,9.2389921"
+    }
 }
