@@ -418,6 +418,10 @@
         {
             "start": "2026-05-14",
             "end": "2026-05-17"
+        },
+        {
+            "start": "2027-05-06",
+            "end": "2027-05-09"
         }
     ],
     "MephitMiniCon": [
@@ -2137,6 +2141,10 @@
         {
             "start": "2026-05-14",
             "end": "2026-05-16"
+        },
+        {
+            "start": "2027-05-06",
+            "end": "2027-05-08"
         }
     ],
     "Anime Focal": [
@@ -4158,6 +4166,54 @@
         {
             "start": "2026-12-05",
             "end": "2026-12-05"
+        }
+    ],
+    "Capital Series Cyprus": [
+        {
+            "link": "https://openforumeurope.org/events/open-source-and-the-european-union-cyprus-ofe-capital-series/",
+            "foss_events_link": "https://foss.events/2026/06-16-capital-series-cyprus.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "37.7481225,14.3982978",
+            "human_readable_location": "The Cyprus Insitute, Nicosia",
+            "start": "2026-06-16",
+            "end": "2026-06-16"
+        }
+    ],
+    "FOSS4G Europe": [
+        {
+            "link": "https://2026.europe.foss4g.org",
+            "foss_events_link": "https://foss.events/2026/06-29-foss4g-europe-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "45.7538355,21.2257474",
+            "human_readable_location": "Timișoara, Romania",
+            "start": "2026-06-29",
+            "end": "2026-07-03"
+        }
+    ],
+    "postmarketOS Conference": [
+        {
+            "link": "https://postmarketos.org/conference/",
+            "foss_events_link": "https://foss.events/2026/09-25-postmarketos-conference.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "50.778825,6.059843",
+            "human_readable_location": "Aachen, Germany",
+            "start": "2026-09-25",
+            "end": "2026-09-27"
+        }
+    ],
+    "FreedomNotFear": [
+        {
+            "link": "https://freedomnotfear.org/",
+            "foss_events_link": "https://foss.events/2026/10-09-freedomnotfear.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "50.8572428,4.3424846",
+            "human_readable_location": "Brussels, Belgium",
+            "start": "2026-10-09",
+            "end": "2026-10-11"
         }
     ]
 }
