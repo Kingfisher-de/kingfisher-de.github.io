@@ -261,6 +261,13 @@
             "input_location": "Göttingen",
             "human_readable_location": "Göttingen, Niedersachsen",
             "machine_readable_location": "51.5328328,9.9351811"
+        },
+        {
+            "start": "2027-03-09",
+            "end": "2027-03-13",
+            "input_location": "Heidelberg",
+            "human_readable_location": "Heidelberg, Baden-Württemberg",
+            "machine_readable_location": "49.4093582,8.6947240"
         }
     ],
     "Easterhegg": [
