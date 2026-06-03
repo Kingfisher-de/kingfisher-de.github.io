@@ -62,6 +62,10 @@
             "expected_attendees": "640",
             "start": "2024-12-29",
             "end": "2025-01-02"
+        },
+        {
+            "start": "2026-12-29",
+            "end": "2027-01-02"
         }
     ],
     "FOSDEM": [
@@ -1111,6 +1115,11 @@
             "expected_attendees": "40",
             "start": "2024-05-18 12:00",
             "end": "2024-05-18"
+        },
+        {
+            "date": "2026-05-30",
+            "start": "2026-05-30",
+            "end": "2026-05-30"
         }
     ],
     "Furry-Treffen Mannheim": [
@@ -3408,6 +3417,10 @@
             "human_readable_location": "Lahnau-Waldgirmes, Germany",
             "start": "2026-03-11",
             "end": "2026-03-13"
+        },
+        {
+            "start": "2026-09-25",
+            "end": "2026-09-26"
         }
     ],
     "t3chfest": [
@@ -4237,6 +4250,30 @@
             "human_readable_location": "Brussels, Belgium",
             "start": "2026-10-09",
             "end": "2026-10-11"
+        }
+    ],
+    "Open Source Picnic": [
+        {
+            "link": "https://dogodki.kompot.si/events/de699ef1-354a-4f05-a1c7-18ed7d29009d",
+            "foss_events_link": "https://foss.events/2026/06-06-open-source-picnic.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "46.069465,14.667922",
+            "human_readable_location": "Gostinca, Slovenia",
+            "start": "2026-06-06",
+            "end": "2026-06-06"
+        }
+    ],
+    "GNU Tools Cauldron": [
+        {
+            "link": "https://gcc.gnu.org/wiki/cauldron2026",
+            "foss_events_link": "https://foss.events/2026/10-02-gnu-tools-cauldron.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "machine_readable_location": "50.0885,14.4035",
+            "human_readable_location": "Prague, Czech Republic",
+            "start": "2026-10-02",
+            "end": "2026-10-04"
         }
     ]
 }
