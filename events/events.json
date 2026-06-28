@@ -332,18 +332,6 @@
             "end": "2027-04-03"
         }
     ],
-    "Linuxtag Dornbirn": [
-        {
-            "link": "https://www.linuxday.at/",
-            "genre": "IT-Event",
-            "input_location": "Dornbirn",
-            "frequency": "Yearly",
-            "start": "2025-09-27",
-            "end": "2025-09-27",
-            "human_readable_location": "Dornbirn, Vorarlberg",
-            "machine_readable_location": "47.4136351,9.7423762"
-        }
-    ],
     "Linuxwochen Eisenstadt": [
         {
             "link": "https://www.linuxwochen.at/linuxwochen-eisenstadt-summary1",
@@ -3025,6 +3013,10 @@
             "end": "2025-09-28",
             "human_readable_location": "Dornbirn, Vorarlberg",
             "machine_readable_location": "47.4138899,9.7230888"
+        },
+        {
+            "start": "2026-09-26",
+            "end": "2026-09-26"
         }
     ],
     "20 Jahre C3PB": [
