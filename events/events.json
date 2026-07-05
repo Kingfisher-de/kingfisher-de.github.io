@@ -1235,6 +1235,10 @@
         {
             "start": "2026-07-04",
             "end": "2026-07-04"
+        },
+        {
+            "start": "2026-09-05",
+            "end": "2026-09-05"
         }
     ],
     "Heilbronner Furry-Stammtisch": {
@@ -2426,6 +2430,10 @@
             "end": "2025-11-16",
             "human_readable_location": "Lübeck, Schleswig-Holstein",
             "machine_readable_location": "53.83434,10.70017"
+        },
+        {
+            "start": "2026-11-20",
+            "end": "2026-11-21"
         }
     ],
     "camp++": [
@@ -2811,6 +2819,10 @@
         {
             "start": "2025-11-14",
             "end": "2025-11-16"
+        },
+        {
+            "start": "2026-11-13",
+            "end": "2026-11-15"
         }
     ],
     "Tag des offenen Hackspace": [
@@ -3113,6 +3125,10 @@
             "genre": "Furry-Convention",
             "human_readable_location": "Gloucester, England",
             "machine_readable_location": "51.8653705,-2.2458192"
+        },
+        {
+            "start": "2026-10-01",
+            "end": "2026-10-05"
         }
     ],
     "OSMC": [
@@ -4278,6 +4294,124 @@
             "human_readable_location": "Prague, Czech Republic",
             "start": "2026-10-02",
             "end": "2026-10-04"
+        }
+    ],
+    "FSiC2026": [
+        {
+            "link": "https://wiki.f-si.org/index.php/FSiC2026",
+            "foss_events_link": "https://foss.events/2026/07-06-fsic2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-07-06",
+            "end": "2026-07-08",
+            "human_readable_location": "Ljubljana, Slovenia",
+            "machine_readable_location": "46.044738,14.489441"
+        }
+    ],
+    "Root Camp": [
+        {
+            "link": "https://rootcamp.rootclub.it",
+            "foss_events_link": "https://foss.events/2026/07-10-root-camp.html",
+            "frequency": "Yearly",
+            "genre": "Tent-Camp",
+            "start": "2026-07-10",
+            "end": "2026-07-12",
+            "human_readable_location": "Bertinoro (FC), Italy",
+            "machine_readable_location": "44.136865,12.101687"
+        }
+    ],
+    "ESC": [
+        {
+            "link": "https://endsummer.camp",
+            "foss_events_link": "https://foss.events/2026/09-01-esc.html",
+            "frequency": "Yearly",
+            "genre": "Tent-Camp",
+            "start": "2026-09-01",
+            "end": "2026-09-06",
+            "human_readable_location": "Venice, Italy",
+            "machine_readable_location": "45.636005,12.546988"
+        }
+    ],
+    "Kielux": [
+        {
+            "link": "https://kielux.de/",
+            "foss_events_link": "https://foss.events/2026/09-17-kielux.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-09-17",
+            "end": "2026-09-19",
+            "human_readable_location": "Kiel, Germany",
+            "machine_readable_location": "54.33496,10.1191301"
+        }
+    ],
+    "postmarketOS and Alpine Linux Conference": [
+        {
+            "link": "https://postmarketos.org/conference/",
+            "foss_events_link": "https://foss.events/2026/09-25-postmarketos-and-alpine-linux-conference.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-09-25",
+            "end": "2026-09-27",
+            "human_readable_location": "Aachen, Germany",
+            "machine_readable_location": "50.778825,6.059843"
+        }
+    ],
+    "OFE Capital Series Ireland": [
+        {
+            "link": "https://openforumeurope.org/events/open-source-and-the-european-union-ireland-ofe-capital-series/",
+            "foss_events_link": "https://foss.events/2026/10-13-ofe-capital-series-ireland.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-10-13",
+            "end": "2026-10-13",
+            "human_readable_location": "Dublin, Ireland",
+            "machine_readable_location": "53.3493795,-6.2605593"
+        }
+    ],
+    "OSOD": [
+        {
+            "link": "https://osoday.com/",
+            "foss_events_link": "https://foss.events/2026/10-15-osod-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-10-15",
+            "end": "2026-10-16"
+        }
+    ],
+    "Open Technology Research (OTR) Symposium": [
+        {
+            "link": "https://symposium.opentechresearch.org/",
+            "foss_events_link": "https://foss.events/2026/10-26-open-technology-research-otr-symposium-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-10-26",
+            "end": "2026-10-27",
+            "human_readable_location": "Barcelona, Spain",
+            "machine_readable_location": "41.3825802,2.1770730"
+        }
+    ],
+    "OpenAlt": [
+        {
+            "link": "https://www.openalt.cz/2026/",
+            "foss_events_link": "https://foss.events/2026/11-07-openalt.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-11-07",
+            "end": "2026-11-08",
+            "human_readable_location": "Brno, Czech Republic",
+            "machine_readable_location": "49.226521,16.595113"
+        }
+    ],
+    "DENOG": [
+        {
+            "link": "https://www.denog.de/de/meetings/denog18/",
+            "foss_events_link": "https://foss.events/2026/11-15-denog18.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "start": "2026-11-15",
+            "end": "2026-11-17",
+            "human_readable_location": "Essen, Germany",
+            "machine_readable_location": "51.452646,7.015124"
         }
     ]
 }
