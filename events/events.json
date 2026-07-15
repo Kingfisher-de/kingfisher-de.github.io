@@ -609,6 +609,10 @@
         {
             "start": "2025-11-15",
             "end": "2025-11-15"
+        },
+        {
+            "start": "2026-11-14",
+            "end": "2026-11-14"
         }
     ],
     "Lübecker Furdance": [
@@ -2187,8 +2191,8 @@
             "expected_attendees": "20000"
         },
         {
-            "start": "2026-07-25",
-            "end": "2026-07-26"
+            "start": "2026-08-15",
+            "end": "2026-08-16"
         }
     ],
     "Hack im Pott": [
@@ -3014,6 +3018,13 @@
             "end": "2025-09-01",
             "human_readable_location": "Pöhl, Sachsen",
             "machine_readable_location": "50.5387930,12.1852359"
+        },
+        {
+            "link": "https://thereisno.camp",
+            "start": "2026-08-19",
+            "end": "2026-08-24",
+            "human_readable_location": "Krebes, Sachsen",
+            "machine_readable_location": "50.4183869,11.9903852"
         }
     ],
     "GNU/LinuxDay in Vorarlberg": [
@@ -4412,6 +4423,87 @@
             "end": "2026-11-17",
             "human_readable_location": "Essen, Germany",
             "machine_readable_location": "51.452646,7.015124"
+        }
+    ],
+    "DIDAYS": [
+        {
+            "link": "https://didays.de",
+            "start": "2026-10-02",
+            "end": "2026-10-05",
+            "frequency": "Yearly",
+            "genre": "Chaos-Event",
+            "human_readable_location": "Hamburg",
+            "machine_readable_location": "53.4577701,9.9859455"
+        }
+    ],
+    "BayTeX": [
+        {
+            "link": "https://www.dante.de/veranstaltungen/",
+            "foss_events_link": "https://foss.events/2026/08-08-baytex.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-08-08",
+            "end": "2026-08-08",
+            "human_readable_location": "München, Germany",
+            "machine_readable_location": "48.096673,11.516644"
+        }
+    ],
+    "Mega-Knowledgecamp": [
+        {
+            "link": "https://megakc.hacksaar.de",
+            "foss_events_link": "https://foss.events/2026/09-25-mega-knowledgecamp-2026.html",
+            "frequency": "Yearly",
+            "genre": "Chaos-Event",
+            "start": "2026-09-25",
+            "end": "2026-09-27",
+            "human_readable_location": "Saarbrücken, Germany",
+            "machine_readable_location": "49.235362,6.972563"
+        }
+    ],
+    "Open Source Conference Luxembourg": [
+        {
+            "link": "https://conference.opensource.lu/",
+            "foss_events_link": "https://foss.events/2026/10-07-open-source-conference-luxembourg.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-10-07",
+            "end": "2026-10-07",
+            "human_readable_location": "Belval, Luxembourg",
+            "machine_readable_location": "49.50346,5.9459"
+        }
+    ],
+    "PyConFR": [
+        {
+            "link": "https://www.pycon.fr/2026/",
+            "foss_events_link": "https://foss.events/2026/10-29-pyconfr.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-10-29",
+            "end": "2026-11-01",
+            "human_readable_location": "Biarritz, France",
+            "machine_readable_location": "43.446055,-1.553965"
+        }
+    ],
+    "EmacsConf": [
+        {
+            "link": "https://emacsconf.org/2026/",
+            "foss_events_link": "https://foss.events/2026/12-12-emacsconf-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-12-12",
+            "end": "2026-12-13"
+        }
+    ],
+    "FOSS-LÄND x OpenChain": [
+        {
+            "link": "https://openchainproject.org/foss-land-x-openchain-2027",
+            "foss_events_link": "https://foss.events/2027/03-22-foss-land-x-openchain.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2027-03-22",
+            "end": "2027-03-24",
+            "human_readable_location": "Stuttgart, Germany",
+            "machine_readable_location": "48.778952,9.173624"
         }
     ]
 }
