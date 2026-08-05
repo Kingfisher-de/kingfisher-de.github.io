@@ -217,6 +217,10 @@
         {
             "start": "2026-03-28",
             "end": "2026-03-29"
+        },
+        {
+            "start": "2027-03-20",
+            "end": "2027-03-21"
         }
     ],
     "CloudFest": [
@@ -403,6 +407,10 @@
         {
             "start": "2026-04-24",
             "end": "2026-04-27"
+        },
+        {
+            "start": "2027-04-23",
+            "end": "2027-04-26"
         }
     ],
     "Schwarzwaldcon": [
@@ -1054,6 +1062,10 @@
         {
             "start": "2025-10-29",
             "end": "2025-11-02"
+        },
+        {
+            "start": "2026-10-28",
+            "end": "2026-11-01"
         }
     ],
     "Flüüfff": [
@@ -1954,6 +1966,13 @@
         {
             "start": "2025-10-31",
             "end": "2025-11-02"
+        },
+        {
+            "link": "https://dhcp.cfhn.it/",
+            "start": "2026-10-30",
+            "end": "2026-11-02",
+            "human_readable_location": "Heilbronn, Baden-Württemberg",
+            "machine_readable_location": "49.12174,9.21261"
         }
     ],
     "10 Jahre Freifunk Stuttgart": [
@@ -4498,6 +4517,15 @@
             "end": "2026-12-13"
         }
     ],
+    "Darklands": [
+        {
+            "link": "https://darklands.be/",
+            "genre": "Misc.",
+            "frequency": "Yearly",
+            "start": "2027-02-16",
+            "end": "2027-02-22"
+        }
+    ],
     "FOSS-LÄND x OpenChain": [
         {
             "link": "https://openchainproject.org/foss-land-x-openchain-2027",
@@ -4508,6 +4536,42 @@
             "end": "2027-03-24",
             "human_readable_location": "Stuttgart, Germany",
             "machine_readable_location": "48.778952,9.173624"
+        }
+    ],
+    "Linux Autumn": [
+        {
+            "link": "https://jesien.org/2026/",
+            "foss_events_link": "https://foss.events/2026/10-23-linux-autumn.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-10-23",
+            "end": "2026-10-25",
+            "human_readable_location": "Kraków, Poland",
+            "machine_readable_location": "50.0308546,19.8281697"
+        }
+    ],
+    "FOSSCOMM": [
+        {
+            "link": "https://2026.fosscomm.gr/",
+            "foss_events_link": "https://foss.events/2026/10-31-fosscomm.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "start": "2026-10-31",
+            "end": "2026-11-01",
+            "human_readable_location": "Athens, Greece",
+            "machine_readable_location": "37.97882072662061,23.673577126987176"
+        }
+    ],
+    "ALASCA Summit": [
+        {
+            "link": "https://alasca.cloud/en/alasca-summit-2026/",
+            "foss_events_link": "https://foss.events/2026/11-03-alasca-summit-2026.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "start": "2026-11-03",
+            "end": "2026-11-04",
+            "human_readable_location": "Dresden, Germany",
+            "machine_readable_location": "51.0493286,13.7381437"
         }
     ]
 }
