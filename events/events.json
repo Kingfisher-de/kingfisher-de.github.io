@@ -3735,6 +3735,10 @@
             "human_readable_location": "Berlin, Germany",
             "start": "2026-05-22",
             "end": "2026-05-25"
+        },
+        {
+            "start": "2027-05-13",
+            "end": "2027-05-17"
         }
     ],
     "Embedded Recipes": [
@@ -3819,6 +3823,10 @@
             "human_readable_location": "Rome, Italy",
             "start": "2026-09-25",
             "end": "2026-09-25"
+        },
+        {
+            "start": "2026-10-02",
+            "end": "2026-10-04"
         }
     ],
     "I Love Free Software Day": [
@@ -4580,6 +4588,30 @@
             "end": "2026-11-04",
             "human_readable_location": "Dresden, Germany",
             "machine_readable_location": "51.0493286,13.7381437"
+        }
+    ],
+    "SFSCON": [
+        {
+            "link": "https://www.sfscon.it/",
+            "foss_events_link": "https://foss.events/2026/11-13-sfscon.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-11-13",
+            "end": "2026-11-14",
+            "human_readable_location": "Bozen, Italy",
+            "machine_readable_location": "46.47853,11.33182"
+        }
+    ],
+    "Capitole du Libre": [
+        {
+            "link": "https://capitoledulibre.org/",
+            "foss_events_link": "https://foss.events/2026/11-14-capitole-du-libre.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-11-14",
+            "end": "2026-11-15",
+            "human_readable_location": "Toulouse, France",
+            "machine_readable_location": "43.60215,1.45524"
         }
     ]
 }
