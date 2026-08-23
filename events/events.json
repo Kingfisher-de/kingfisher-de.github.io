@@ -64,8 +64,11 @@
             "end": "2025-01-02"
         },
         {
+            "input_location": "Karlsruhe",
             "start": "2026-12-29",
-            "end": "2027-01-02"
+            "end": "2027-01-02",
+            "human_readable_location": "Karlsruhe, Baden-Württemberg",
+            "machine_readable_location": "49.0068705,8.4034195"
         }
     ],
     "FOSDEM": [
