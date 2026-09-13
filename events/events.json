@@ -90,6 +90,10 @@
         {
             "start": "2026-01-31",
             "end": "2026-02-01"
+        },
+        {
+            "start": "2027-01-30",
+            "end": "2027-01-31"
         }
     ],
     "Hackerhotel": [
@@ -597,6 +601,10 @@
         {
             "start": "2026-06-19",
             "end": "2026-06-21"
+        },
+        {
+            "start": "2027-06-18",
+            "end": "2027-06-20"
         }
     ],
     "Bavarian Furdance": [
@@ -1000,6 +1008,10 @@
         {
             "start": "1990-12-31",
             "end": "1990-12-31"
+        },
+        {
+            "start": "2027-08-18",
+            "end": "2027-08-22"
         }
     ],
     "Kieler Open Source und Linux Tage": [
@@ -2444,6 +2456,13 @@
             "link": "https://bigbrotherawards.de/",
             "start": "2025-10-10",
             "end": "2025-10-11",
+            "human_readable_location": "Bielefeld, North Rhine-Westphalia",
+            "machine_readable_location": "52.022009,8.54367"
+        },
+        {
+            "link": "https://bigbrotherawards.de/",
+            "start": "2026-09-25",
+            "end": "2026-09-26",
             "human_readable_location": "Bielefeld, North Rhine-Westphalia",
             "machine_readable_location": "52.022009,8.54367"
         }
@@ -3977,6 +3996,10 @@
             "end": "2026-04-12",
             "human_readable_location": "Schweinfurt, Bayern",
             "machine_readable_location": "50.0499318,10.2335087"
+        },
+        {
+            "start": "2027-03-24",
+            "end": "2027-03-28"
         }
     ],
     "H5P Community Event": [
@@ -4619,6 +4642,52 @@
             "end": "2026-11-15",
             "human_readable_location": "Toulouse, France",
             "machine_readable_location": "43.60215,1.45524"
+        }
+    ],
+    "FediDay": [
+        {
+            "link": "https://berlinfedi.day",
+            "start": "2026-09-11",
+            "end": "2026-09-14",
+            "human_readable_location": "Berlin",
+            "machine_readable_location": "52.5129735,13.4201313",
+            "genre": "IT-Event",
+            "frequency": "Yearly"
+        }
+    ],
+    "Pi and More": [
+        {
+            "link": "https://piandmore.de/de/conference/pam14/",
+            "start": "2026-09-26",
+            "end": "2026-09-27",
+            "human_readable_location": "Trierweiler, Rheinland-Pfalz",
+            "machine_readable_location": "49.6080794,7.1693320",
+            "genre": "IT-Event",
+            "frequency": "Yearly"
+        }
+    ],
+    "HackFest": [
+        {
+            "link": "https://hackfest.nl",
+            "foss_events_link": "https://foss.events/2026/10-10-hackfest.html",
+            "frequency": "Yearly",
+            "start": "2026-10-10",
+            "end": "2026-10-10",
+            "human_readable_location": "Enschede, Netherlands",
+            "machine_readable_location": "52.224785,6.899953",
+            "genre": "IT-Event"
+        }
+    ],
+    "Stack Trace To Nowhere": [
+        {
+            "link": "https://cqql.site/stacktracetonowhere/2026/",
+            "foss_events_link": "https://foss.events/2026/10-18-stack-trace-to-nowhere.html",
+            "frequency": "Yearly",
+            "start": "2026-10-18",
+            "end": "2026-10-18",
+            "human_readable_location": "Wrocław, Poland",
+            "machine_readable_location": "51.1089776,17.0326689",
+            "genre": "IT-Event"
         }
     ]
 }
