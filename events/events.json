@@ -1274,6 +1274,10 @@
         {
             "start": "2026-09-05",
             "end": "2026-09-05"
+        },
+        {
+            "start": "2026-11-07",
+            "end": "2026-11-07"
         }
     ],
     "Heilbronner Furry-Stammtisch": {
@@ -2038,6 +2042,10 @@
         {
             "start": "2025-12-11",
             "end": "2025-12-13"
+        },
+        {
+            "start": "2026-10-05",
+            "end": "2026-10-07"
         }
     ],
     "Tropical Furry Islands": [
@@ -4304,6 +4312,31 @@
             "end": "2026-12-05"
         }
     ],
+    "Kinky Pleasures": [
+        {
+            "link": "https://kinky.dasholtz.de/",
+            "genre": "Misc.",
+            "frequency": "4 times per year",
+            "input_location": "Augsburg",
+            "date": "2027-01-09",
+            "human_readable_location": "Augsburg, Bayern",
+            "machine_readable_location": "48.3690341,10.8979522",
+            "start": "2027-01-09",
+            "end": "2027-01-09"
+        },
+        {
+            "start": "2027-03-20",
+            "end": "2027-03-20"
+        },
+        {
+            "start": "2027-05-22",
+            "end": "2027-05-22"
+        },
+        {
+            "start": "2027-09-18",
+            "end": "2027-09-18"
+        }
+    ],
     "Capital Series Cyprus": [
         {
             "link": "https://openforumeurope.org/events/open-source-and-the-european-union-cyprus-ofe-capital-series/",
@@ -4688,6 +4721,54 @@
             "human_readable_location": "Wrocław, Poland",
             "machine_readable_location": "51.1089776,17.0326689",
             "genre": "IT-Event"
+        }
+    ],
+    "Mindtrek Conference": [
+        {
+            "link": "https://www.mindtrek.org/",
+            "foss_events_link": "https://foss.events/2026/10-06-mindtrek-conference.html",
+            "frequency": "Yearly",
+            "start": "2026-10-06",
+            "end": "2026-10-06",
+            "genre": "IT-Event",
+            "human_readable_location": "Tampere, Finland",
+            "machine_readable_location": "61.4977988,23.7616335"
+        }
+    ],
+    "WroboCon": [
+        {
+            "link": "https://wrobocon.eu/",
+            "foss_events_link": "https://foss.events/2026/10-08-wrobocon.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-10-08",
+            "end": "2026-10-08",
+            "human_readable_location": "International",
+            "machine_readable_location": "50.1093460,14.3932647"
+        }
+    ],
+    "MOSS": [
+        {
+            "link": "https://www.na-prostem.si/moss/",
+            "foss_events_link": "https://foss.events/2026/10-17-moss-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-10-17",
+            "end": "2026-10-17",
+            "human_readable_location": "Ljubljana, Slovenia",
+            "machine_readable_location": "46.05964,14.505301"
+        }
+    ],
+    "The Matrix Conference": [
+        {
+            "link": "https://2026.matrix.org/",
+            "foss_events_link": "https://foss.events/2026/10-20-the-matrix-conference.html",
+            "frequency": "Yearly",
+            "start": "2026-10-20",
+            "end": "2026-10-23",
+            "genre": "IT-Event",
+            "human_readable_location": "Malmö, Sweden",
+            "machine_readable_location": "55.596353,13.001381"
         }
     ]
 }
