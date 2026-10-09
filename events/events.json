@@ -877,6 +877,10 @@
         {
             "start": "2026-07-22",
             "end": "2026-07-25"
+        },
+        {
+            "start": "2027-07-21",
+            "end": "2027-07-24"
         }
     ],
     "EAST": [
@@ -3230,6 +3234,10 @@
             "end": "2026-06-28",
             "human_readable_location": "Tübingen, Baden-Württemberg",
             "machine_readable_location": "48.5203263,9.0535960"
+        },
+        {
+            "start": "2027-05-08",
+            "end": "2027-05-09"
         }
     ],
     "Confuzzled": [
@@ -3266,6 +3274,10 @@
             "end": "2025-08-24",
             "human_readable_location": "Schwangau, Bayern",
             "machine_readable_location": "47.5768030,10.7373475"
+        },
+        {
+            "start": "2027-08-31",
+            "end": "2027-09-05"
         }
     ],
     "NixCon": [
@@ -3453,6 +3465,10 @@
             "human_readable_location": "Echirolles, France",
             "start": "2026-02-17",
             "end": "2026-02-17"
+        },
+        {
+            "start": "2027-02-23",
+            "end": "2027-02-23"
         }
     ],
     "Python Barcamp Karlsruhe": [
@@ -3845,6 +3861,10 @@
             "human_readable_location": "Maibach, Germany",
             "start": "2026-08-24",
             "end": "2026-08-29"
+        },
+        {
+            "start": "2027-08-21",
+            "end": "2027-08-28"
         }
     ],
     "RomHack Camp": [
@@ -4769,6 +4789,114 @@
             "genre": "IT-Event",
             "human_readable_location": "Malmö, Sweden",
             "machine_readable_location": "55.596353,13.001381"
+        }
+    ],
+    "RustWeek": [
+        {
+            "link": "https://2027.rustweek.org/",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "start": "2027-05-24",
+            "end": "2027-05-29",
+            "human_readable_location": "Utrecht, Netherlands",
+            "machine_readable_location": "52.084747,5.103364",
+            "ticket_price": "€199,-",
+            "expected_attendees": "950",
+            "dev_comment": "Student ticket at €35,-"
+        }
+    ],
+    "Mostly Harmless": [
+        {
+            "link": "https://mostly.harmless.world/",
+            "genre": "Chaos-Event",
+            "frequency": "Yearly",
+            "start": "2026-10-09",
+            "end": "2026-10-12",
+            "human_readable_location": "Hünfeld, Hessen",
+            "machine_readable_location": "50.6690419,9.7656823"
+        }
+    ],
+    "FIfFKon": [
+        {
+            "link": "https://www.fiffkon.de/",
+            "start": "2026-10-30",
+            "end": "2026-11-02",
+            "genre": "Misc.",
+            "frequency": "Yearly",
+            "human_readable_location": "Berlin",
+            "machine_readable_location": "52.5519035,13.4311632"
+        }
+    ],
+    "PGConf.EU": [
+        {
+            "link": "https://2026.pgconf.eu/",
+            "foss_events_link": "https://foss.events/2026/10-20-pgconf-eu-2026.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-10-20",
+            "end": "2026-10-23",
+            "human_readable_location": "Valencia, Spain",
+            "machine_readable_location": "39.4697065,-0.3763353"
+        }
+    ],
+    "LDTO": [
+        {
+            "link": "https://linuxdaytorino.org/2026/",
+            "foss_events_link": "https://foss.events/2026/10-24-ldto26.html",
+            "genre": "IT-Event",
+            "frequency": "Yearly",
+            "start": "2026-10-24",
+            "end": "2026-10-24",
+            "human_readable_location": "Torino, Italy",
+            "machine_readable_location": "45.089749,7.659187"
+        }
+    ],
+    "TechInc 3D Sunday": [
+        {
+            "link": "https://wiki.techinc.nl/3D_Sunday_2026-11-01",
+            "foss_events_link": "https://foss.events/2026/11-01-techinc-3d-sunday.html",
+            "frequency": "Yearly",
+            "genre": "Misc.",
+            "start": "2026-11-01",
+            "end": "2026-11-01",
+            "human_readable_location": "Amsterdam, Netherlands",
+            "machine_readable_location": "52.34557,4.8264646"
+        }
+    ],
+    "OSXP": [
+        {
+            "link": "https://www.opensource-experience.com/fr/",
+            "foss_events_link": "https://foss.events/2026/12-09-osxp.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2026-12-09",
+            "end": "2026-12-10",
+            "human_readable_location": "paris, France",
+            "machine_readable_location": "48.8325891,2.2874642"
+        }
+    ],
+    "Config Management Camp": [
+        {
+            "link": "https://cfgmgmtcamp.eu/",
+            "foss_events_link": "https://foss.events/2027/02-01-config-management-camp.html",
+            "frequency": "Yearly",
+            "genre": "IT-Event",
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "human_readable_location": "Ghent, Belgium",
+            "machine_readable_location": "51.03412565003083,3.7016512683781606"
+        }
+    ],
+    "EU Open SourcePolicy Summit": [
+        {
+            "link": "https://summit.openforumeurope.org/",
+            "foss_events_link": "https://foss.events/2027/01-29-eu-open-source-policy-summit-2027.html",
+            "frequency": "Yearly",
+            "genre": "Misc.",
+            "start": "2027-01-29",
+            "end": "2027-01-29",
+            "human_readable_location": "Brussels, Belgium",
+            "machine_readable_location": "50.8467372,4.3524930"
         }
     ]
 }
